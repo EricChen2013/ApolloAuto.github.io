@@ -1,0 +1,5 @@
+<map id="apollo::perception::traffic_light::IRefine" name="apollo::perception::traffic_light::IRefine">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1traffic__light_1_1ClassifyBySimple.html" title="{apollo::perception\l::traffic_light::ClassifyBy\lSimple\n||+ ClassifyBySimple()\l+ Init()\l+ Perform()\l+ SetCropBox()\l+ ~ClassifyBySimple()\l}" alt="" coords="5,160,171,325"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1traffic__light_1_1Detection.html" title="{apollo::perception\l::traffic_light::Detection\n||+ Detection()\l+ Init()\l+ Perform()\l+ SetCropBox()\l+ ~Detection()\l}" alt="" coords="195,167,353,318"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1traffic__light_1_1DummyRefine.html" title="{apollo::perception\l::traffic_light::DummyRefine\n||+ Perform()\l+ SetCropBox()\l}" alt="" coords="379,189,565,296"/>
+</map>

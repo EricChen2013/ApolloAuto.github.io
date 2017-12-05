@@ -1,0 +1,13 @@
+<map id="modules/canbus/vehicle/abstract_vehicle_factory.h" name="modules/canbus/vehicle/abstract_vehicle_factory.h">
+<area shape="rect" id="node5" href="$vehicle__controller_8h.html" title="The class of VehicleController. " alt="" coords="537,97,700,138"/>
+<area shape="rect" id="node42" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="1114,187,1328,229"/>
+<area shape="rect" id="node11" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="803,187,975,229"/>
+<area shape="rect" id="node39" href="$protocol__data_8h.html" title="The class of ProtocolData. " alt="" coords="1878,278,2060,319"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1908,376,2065,403"/>
+<area shape="rect" id="node21" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="967,376,1143,403"/>
+<area shape="rect" id="node24" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1329,278,1483,319"/>
+<area shape="rect" id="node32" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="641,278,800,319"/>
+<area shape="rect" id="node29" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="1713,369,1884,410"/>
+<area shape="rect" id="node37" href="$byte_8h.html" title="Defines the Byte class. " alt="" coords="700,369,859,410"/>
+<area shape="rect" id="node41" href="$canbus__consts_8h.html" title="modules/drivers/canbus\l/common/canbus_consts.h" alt="" coords="2089,369,2268,410"/>
+</map>

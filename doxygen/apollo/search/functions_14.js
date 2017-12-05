@@ -1,8 +1,8 @@
 var searchData=
 [
   ['uniform_5fslice',['uniform_slice',['../namespaceapollo_1_1common_1_1util.html#aaa181921ad0cb11fb79e67aeda718be1',1,'apollo::common::util']]],
-  ['unit_5fdirection',['unit_direction',['../classapollo_1_1common_1_1math_1_1LineSegment2d.html#a4940abcdb68cbae0c97502c745607e27',1,'apollo::common::math::LineSegment2d']]],
-  ['unit_5fdirections',['unit_directions',['../classapollo_1_1hdmap_1_1LaneInfo.html#a0e25fa69436ef783c02a7d9dc2e54e74',1,'apollo::hdmap::LaneInfo::unit_directions()'],['../classapollo_1_1hdmap_1_1Path.html#a3db849984dc1ff1061c8465b80331ced',1,'apollo::hdmap::Path::unit_directions()']]],
+  ['unit_5fdirection',['unit_direction',['../classapollo_1_1common_1_1math_1_1LineSegment2d.html#af1866ae7ee5c16cc1c7ee421500e57af',1,'apollo::common::math::LineSegment2d']]],
+  ['unit_5fdirections',['unit_directions',['../classapollo_1_1hdmap_1_1LaneInfo.html#aa8ff795c6ce081ad6707af99d533ddd7',1,'apollo::hdmap::LaneInfo::unit_directions()'],['../classapollo_1_1hdmap_1_1Path.html#a9c6389d270858beb75af838072f1ecff',1,'apollo::hdmap::Path::unit_directions()']]],
   ['unityrecognize',['UnityRecognize',['../classapollo_1_1perception_1_1traffic__light_1_1UnityRecognize.html#ad1a14fef1fb74b2cdf3bb3add91095dd',1,'apollo::perception::traffic_light::UnityRecognize']]],
   ['unityrectify',['UnityRectify',['../classapollo_1_1perception_1_1traffic__light_1_1UnityRectify.html#a6e7401628eace7ca0300f81621033a0b',1,'apollo::perception::traffic_light::UnityRectify']]],
   ['unix2gps',['Unix2gps',['../classapollo_1_1perception_1_1TimeUtil.html#a855e6517163bb4ad6c553262b5b2c02b',1,'apollo::perception::TimeUtil::Unix2gps()'],['../namespaceapollo_1_1drivers_1_1util.html#a0d63898bbc35f17cf799757125fc083f',1,'apollo::drivers::util::unix2gps()']]],
@@ -40,8 +40,8 @@ var searchData=
   ['updatewithoutsensorobject',['UpdateWithoutSensorObject',['../classapollo_1_1perception_1_1PbfTrack.html#a5af28d72cf7a4e4d96263882ea186ee1',1,'apollo::perception::PbfTrack']]],
   ['updatewithsensorobject',['UpdateWithSensorObject',['../classapollo_1_1perception_1_1PbfTrack.html#ae67351d128d31c2ae22b2b75041641b5',1,'apollo::perception::PbfTrack']]],
   ['updir',['UpDir',['../classapollo_1_1perception_1_1Camera.html#a704efc2f71ab8997283132fc0a2288bf',1,'apollo::perception::Camera']]],
-  ['upper_5fbound',['upper_bound',['../classapollo_1_1planning_1_1ReferencePoint.html#ad2d4b095744e621bfe5870e944457b62',1,'apollo::planning::ReferencePoint']]],
-  ['upper_5fpoints',['upper_points',['../classapollo_1_1planning_1_1StBoundary.html#a867ba940686782734036f2ba7ebaab9c',1,'apollo::planning::StBoundary']]],
+  ['upper_5fbound',['upper_bound',['../classapollo_1_1planning_1_1ReferencePoint.html#ab57fc6f2f4fc028295d2d41640d0e6ad',1,'apollo::planning::ReferencePoint']]],
+  ['upper_5fpoints',['upper_points',['../classapollo_1_1planning_1_1StBoundary.html#afcc0526591382442f1cbfb5bc63bd994',1,'apollo::planning::StBoundary']]],
   ['usbcam',['UsbCam',['../classusb__cam_1_1UsbCam.html#a1b21e83415420ff065d56a5281c758ef',1,'usb_cam::UsbCam']]],
   ['usbcamwrapper',['UsbCamWrapper',['../classusb__cam_1_1UsbCamWrapper.html#a8a901830cdf3d99672da2b2b6af17baf',1,'usb_cam::UsbCamWrapper']]],
   ['usevehicle',['UseVehicle',['../classapollo_1_1dreamview_1_1VehicleManager.html#a2fdd5d015e98fd7dca87e78a026bed7f',1,'apollo::dreamview::VehicleManager']]],

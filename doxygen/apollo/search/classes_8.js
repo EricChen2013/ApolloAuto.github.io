@@ -2,8 +2,7 @@ var searchData=
 [
   ['hdmap',['HDMap',['../classapollo_1_1hdmap_1_1HDMap.html',1,'apollo::hdmap']]],
   ['hdmapimpl',['HDMapImpl',['../classapollo_1_1hdmap_1_1HDMapImpl.html',1,'apollo::hdmap']]],
-  ['hdmapinput',['HDMapInput',['../classapollo_1_1perception_1_1traffic__light_1_1HDMapInput.html',1,'apollo::perception::traffic_light']]],
-  ['hdmapinput',['HDMapInput',['../classapollo_1_1perception_1_1HDMapInput.html',1,'apollo::perception']]],
+  ['hdmapinput',['HDMapInput',['../classapollo_1_1perception_1_1HDMapInput.html',1,'apollo::perception::HDMapInput'],['../classapollo_1_1perception_1_1traffic__light_1_1HDMapInput.html',1,'apollo::perception::traffic_light::HDMapInput']]],
   ['hdmaproifilter',['HdmapROIFilter',['../classapollo_1_1perception_1_1HdmapROIFilter.html',1,'apollo::perception']]],
   ['hdmapstruct',['HdmapStruct',['../structapollo_1_1perception_1_1HdmapStruct.html',1,'apollo::perception']]],
   ['hdmaputil',['HDMapUtil',['../classapollo_1_1hdmap_1_1HDMapUtil.html',1,'apollo::hdmap']]],

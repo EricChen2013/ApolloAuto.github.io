@@ -1,0 +1,21 @@
+<map id="modules/drivers/canbus/sensor_canbus.h" name="modules/drivers/canbus/sensor_canbus.h">
+<area shape="rect" id="node10" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1134,97,1313,138"/>
+<area shape="rect" id="node15" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1637,382,1790,423"/>
+<area shape="rect" id="node22" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2938,480,3114,507"/>
+<area shape="rect" id="node25" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="1466,382,1613,423"/>
+<area shape="rect" id="node37" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="329,382,491,423"/>
+<area shape="rect" id="node40" href="$common_2monitor_2monitor_8h.html" title="modules/common/monitor\l/monitor.h" alt="" coords="3400,285,3571,326"/>
+<area shape="rect" id="node43" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="3095,382,3254,423"/>
+<area shape="rect" id="node46" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="3045,277,3203,333"/>
+<area shape="rect" id="node47" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="2709,187,2887,229"/>
+<area shape="rect" id="node48" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="2299,285,2513,326"/>
+<area shape="rect" id="node49" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="1970,97,2129,138"/>
+<area shape="rect" id="node13" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1137,285,1315,326"/>
+<area shape="rect" id="node21" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2623,480,2781,507"/>
+<area shape="rect" id="node32" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="1261,187,1439,229"/>
+<area shape="rect" id="node36" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="871,285,1061,326"/>
+<area shape="rect" id="node19" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="2378,473,2549,514"/>
+<area shape="rect" id="node28" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1588,473,1746,514"/>
+<area shape="rect" id="node39" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="185,473,349,514"/>
+<area shape="rect" id="node42" href="$monitor__buffer_8h.html" title="The class of MonitorBuffer. " alt="" coords="3524,382,3695,423"/>
+</map>

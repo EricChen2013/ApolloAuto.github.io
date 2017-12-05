@@ -1,0 +1,8 @@
+<map id="modules/prediction/predictor/predictor.h" name="modules/prediction/predictor/predictor.h">
+<area shape="rect" id="node2" href="$free__move__predictor_8h.html" title="Define lane sequence predictor. " alt="" coords="5,96,159,152"/>
+<area shape="rect" id="node3" href="$sequence__predictor_8h.html" title="Define the sequence predictor base class. " alt="" coords="185,96,335,152"/>
+<area shape="rect" id="node6" href="$predictor__manager_8h.html" title="Use predictor manager to manage all predictors. " alt="" coords="360,96,489,152"/>
+<area shape="rect" id="node7" href="$regional__predictor_8h.html" title="Define pedestrian predictor. " alt="" coords="515,96,653,152"/>
+<area shape="rect" id="node4" href="$lane__sequence__predictor_8h.html" title="Define lane sequence predictor. " alt="" coords="65,200,247,256"/>
+<area shape="rect" id="node5" href="$move__sequence__predictor_8h.html" title="Define move sequence predictor. " alt="" coords="271,200,460,256"/>
+</map>

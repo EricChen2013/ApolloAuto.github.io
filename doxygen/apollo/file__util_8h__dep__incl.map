@@ -1,0 +1,6 @@
+<map id="modules/perception/lib/base/file_util.h" name="modules/perception/lib/base/file_util.h">
+<area shape="rect" id="node2" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="123,96,301,152"/>
+<area shape="rect" id="node3" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="5,200,173,256"/>
+<area shape="rect" id="node4" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="67,304,235,360"/>
+<area shape="rect" id="node5" href="$proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/proc_subnode.h" alt="" coords="250,200,389,256"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="modules/perception/onboard/common_shared_data.h" name="modules/perception/onboard/common_shared_data.h">
+<area shape="rect" id="node2" href="$object__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/object\l_shared_data.h" alt="" coords="178,109,341,165"/>
+<area shape="rect" id="node6" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="367,117,545,158"/>
+<area shape="rect" id="node8" href="$tl__shared__data_8h.html" title="modules/perception\l/traffic_light/base\l/tl_shared_data.h" alt="" coords="570,109,704,165"/>
+<area shape="rect" id="node9" href="$proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/proc_subnode.h" alt="" coords="729,109,868,165"/>
+<area shape="rect" id="node3" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="365,213,528,269"/>
+<area shape="rect" id="node4" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="5,213,157,269"/>
+<area shape="rect" id="node5" href="$radar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/radar\l_process_subnode.h" alt="" coords="182,213,340,269"/>
+<area shape="rect" id="node7" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="553,213,721,269"/>
+</map>

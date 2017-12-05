@@ -1,0 +1,11 @@
+<map id="modules/perception/onboard/types.h" name="modules/perception/onboard/types.h">
+<area shape="rect" id="node2" href="$event__manager_8h.html" title="modules/perception\l/onboard/event_manager.h" alt="" coords="573,97,749,138"/>
+<area shape="rect" id="node3" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="468,187,603,229"/>
+<area shape="rect" id="node9" href="$dag__streaming_8h.html" title="modules/perception\l/onboard/dag_streaming.h" alt="" coords="803,187,975,229"/>
+<area shape="rect" id="node4" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="5,277,168,333"/>
+<area shape="rect" id="node5" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="193,277,345,333"/>
+<area shape="rect" id="node6" href="$radar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/radar\l_process_subnode.h" alt="" coords="370,277,528,333"/>
+<area shape="rect" id="node7" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="553,277,721,333"/>
+<area shape="rect" id="node8" href="$proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/proc_subnode.h" alt="" coords="746,277,885,333"/>
+<area shape="rect" id="node10" href="$perception_8h.html" title="modules/perception\l/perception.h" alt="" coords="910,285,1044,326"/>
+</map>

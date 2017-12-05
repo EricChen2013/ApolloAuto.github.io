@@ -17,8 +17,7 @@ var searchData=
   ['discretized_5fpath_2eh',['discretized_path.h',['../discretized__path_8h.html',1,'']]],
   ['discretized_5ftrajectory_2eh',['discretized_trajectory.h',['../discretized__trajectory_8h.html',1,'']]],
   ['disjoint_5fset_2eh',['disjoint_set.h',['../disjoint__set_8h.html',1,'']]],
-  ['dmumps_5fc_2eh',['dmumps_c.h',['../ThirdParty_2Mumps_2MUMPS_2include_2dmumps__c_8h.html',1,'']]],
-  ['dmumps_5fc_2eh',['dmumps_c.h',['../include_2coin_2ThirdParty_2dmumps__c_8h.html',1,'']]],
+  ['dmumps_5fc_2eh',['dmumps_c.h',['../include_2coin_2ThirdParty_2dmumps__c_8h.html',1,'(Global Namespace)'],['../ThirdParty_2Mumps_2MUMPS_2include_2dmumps__c_8h.html',1,'(Global Namespace)']]],
   ['dmumps_5froot_2eh',['dmumps_root.h',['../dmumps__root_8h.html',1,'']]],
   ['dmumps_5fstruc_2eh',['dmumps_struc.h',['../dmumps__struc_8h.html',1,'']]],
   ['dp_5fpoly_5fpath_5foptimizer_2eh',['dp_poly_path_optimizer.h',['../dp__poly__path__optimizer_8h.html',1,'']]],
@@ -30,6 +29,5 @@ var searchData=
   ['dreamview_5fgflags_2eh',['dreamview_gflags.h',['../dreamview__gflags_8h.html',1,'']]],
   ['driver_2eh',['driver.h',['../driver_8h.html',1,'']]],
   ['dropbox_2eh',['dropbox.h',['../dropbox_8h.html',1,'']]],
-  ['dummy_5falgorithms_2eh',['dummy_algorithms.h',['../lidar_2dummy_2dummy__algorithms_8h.html',1,'']]],
-  ['dummy_5falgorithms_2eh',['dummy_algorithms.h',['../radar_2dummy_2dummy__algorithms_8h.html',1,'']]]
+  ['dummy_5falgorithms_2eh',['dummy_algorithms.h',['../lidar_2dummy_2dummy__algorithms_8h.html',1,'(Global Namespace)'],['../radar_2dummy_2dummy__algorithms_8h.html',1,'(Global Namespace)']]]
 ];

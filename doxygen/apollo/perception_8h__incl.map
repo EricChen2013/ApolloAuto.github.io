@@ -1,0 +1,17 @@
+<map id="modules/perception/perception.h" name="modules/perception/perception.h">
+<area shape="rect" id="node4" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="1196,97,1358,138"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="876,576,1052,603"/>
+<area shape="rect" id="node17" href="$dag__streaming_8h.html" title="modules/perception\l/onboard/dag_streaming.h" alt="" coords="643,97,814,138"/>
+<area shape="rect" id="node7" href="$log_8h.html" title="modules/common/log.h" alt="" coords="118,493,276,520"/>
+<area shape="rect" id="node10" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="1433,194,1597,235"/>
+<area shape="rect" id="node20" href="$thread_8h.html" title="modules/perception\l/lib/base/thread.h" alt="" coords="983,389,1117,430"/>
+<area shape="rect" id="node22" href="$event__manager_8h.html" title="modules/perception\l/onboard/event_manager.h" alt="" coords="812,194,988,235"/>
+<area shape="rect" id="node34" href="$shared__data__manager_8h.html" title="modules/perception\l/onboard/shared_data\l_manager.h" alt="" coords="349,187,496,243"/>
+<area shape="rect" id="node26" href="$modules_2perception_2onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="1888,291,2022,333"/>
+<area shape="rect" id="node27" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="1888,389,2022,430"/>
+<area shape="rect" id="node29" href="$concurrent__queue_8h.html" title="modules/perception\l/lib/base/concurrent\l_queue.h" alt="" coords="2048,381,2182,437"/>
+<area shape="rect" id="node32" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="2044,486,2178,527"/>
+<area shape="rect" id="node31" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1696,486,1830,527"/>
+<area shape="rect" id="node35" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="343,291,501,333"/>
+<area shape="rect" id="node36" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="444,389,584,430"/>
+</map>

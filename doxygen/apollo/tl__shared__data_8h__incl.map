@@ -1,0 +1,12 @@
+<map id="modules/perception/traffic_light/base/tl_shared_data.h" name="modules/perception/traffic_light/base/tl_shared_data.h">
+<area shape="rect" id="node5" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="893,109,1064,165"/>
+<area shape="rect" id="node22" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="1498,109,1632,165"/>
+<area shape="rect" id="node11" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="594,221,728,262"/>
+<area shape="rect" id="node16" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="359,221,517,262"/>
+<area shape="rect" id="node13" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="283,421,459,448"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="101,421,259,448"/>
+<area shape="rect" id="node20" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="386,325,525,366"/>
+<area shape="rect" id="node23" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="1007,317,1141,373"/>
+<area shape="rect" id="node26" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1374,213,1508,269"/>
+<area shape="rect" id="node30" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="1622,213,1756,269"/>
+</map>

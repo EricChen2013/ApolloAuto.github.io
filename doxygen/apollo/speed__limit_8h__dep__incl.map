@@ -1,0 +1,10 @@
+<map id="modules/planning/common/speed_limit.h" name="modules/planning/common/speed_limit.h">
+<area shape="rect" id="node2" href="$st__graph__data_8h.html" title=": data with map info and obstacle info " alt="" coords="392,97,565,138"/>
+<area shape="rect" id="node9" href="$st__boundary__mapper_8h.html" title="modules/planning/tasks\l/st_graph/st_boundary\l_mapper.h" alt="" coords="765,187,923,243"/>
+<area shape="rect" id="node3" href="$dp__st__graph_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_graph.h" alt="" coords="188,194,375,235"/>
+<area shape="rect" id="node4" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/speed_optimizer.h" alt="" coords="582,194,740,235"/>
+<area shape="rect" id="node7" href="$qp__piecewise__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_piecewise_st_graph.h" alt="" coords="399,187,557,243"/>
+<area shape="rect" id="node8" href="$qp__spline__st__graph_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_graph.h" alt="" coords="5,187,163,243"/>
+<area shape="rect" id="node5" href="$dp__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_speed\l_optimizer.h" alt="" coords="557,291,736,347"/>
+<area shape="rect" id="node6" href="$qp__spline__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_speed_optimizer.h" alt="" coords="760,291,955,347"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="apollo::perception::traffic_light::UnityRecognize" name="apollo::perception::traffic_light::UnityRecognize">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1traffic__light_1_1BaseRecognizer.html" title="{apollo::perception\l::traffic_light::BaseRecognizer\n||+ BaseRecognizer()\l+ ~BaseRecognizer()\l+ Init()\l+ RecognizeStatus()\l+ name()\l}" alt="" coords="5,6,203,157"/>
+</map>

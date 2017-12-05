@@ -1,13 +1,10 @@
 var searchData=
 [
-  ['adapter',['adapter',['../namespaceapollo_1_1common_1_1adapter.html',1,'apollo::common']]],
-  ['adapter',['adapter',['../namespaceapollo_1_1hdmap_1_1adapter.html',1,'apollo::hdmap']]],
+  ['adapter',['adapter',['../namespaceapollo_1_1common_1_1adapter.html',1,'apollo::common::adapter'],['../namespaceapollo_1_1hdmap_1_1adapter.html',1,'apollo::hdmap::adapter']]],
   ['apollo',['apollo',['../namespaceapollo.html',1,'']]],
   ['calibration',['calibration',['../namespaceapollo_1_1calibration.html',1,'apollo']]],
-  ['can',['can',['../namespaceapollo_1_1canbus_1_1can.html',1,'apollo::canbus']]],
-  ['can',['can',['../namespaceapollo_1_1drivers_1_1canbus_1_1can.html',1,'apollo::drivers::canbus']]],
-  ['canbus',['canbus',['../namespaceapollo_1_1drivers_1_1canbus.html',1,'apollo::drivers']]],
-  ['canbus',['canbus',['../namespaceapollo_1_1canbus.html',1,'apollo']]],
+  ['can',['can',['../namespaceapollo_1_1canbus_1_1can.html',1,'apollo::canbus::can'],['../namespaceapollo_1_1drivers_1_1canbus_1_1can.html',1,'apollo::drivers::canbus::can']]],
+  ['canbus',['canbus',['../namespaceapollo_1_1canbus.html',1,'apollo::canbus'],['../namespaceapollo_1_1drivers_1_1canbus.html',1,'apollo::drivers::canbus']]],
   ['cnnseg',['cnnseg',['../namespaceapollo_1_1perception_1_1cnnseg.html',1,'apollo::perception']]],
   ['common',['common',['../namespaceapollo_1_1common.html',1,'apollo']]],
   ['config',['config',['../namespaceapollo_1_1common_1_1config.html',1,'apollo::common']]],
@@ -28,8 +25,7 @@ var searchData=
   ['math',['math',['../namespaceapollo_1_1common_1_1math.html',1,'apollo::common']]],
   ['math_5futil',['math_util',['../namespaceapollo_1_1prediction_1_1math__util.html',1,'apollo::prediction']]],
   ['mobileye',['mobileye',['../namespaceapollo_1_1drivers_1_1mobileye.html',1,'apollo::drivers']]],
-  ['monitor',['monitor',['../namespaceapollo_1_1common_1_1monitor.html',1,'apollo::common']]],
-  ['monitor',['monitor',['../namespaceapollo_1_1monitor.html',1,'apollo']]],
+  ['monitor',['monitor',['../namespaceapollo_1_1common_1_1monitor.html',1,'apollo::common::monitor'],['../namespaceapollo_1_1monitor.html',1,'apollo::monitor']]],
   ['network',['network',['../namespaceapollo_1_1prediction_1_1network.html',1,'apollo::prediction']]],
   ['novatel',['novatel',['../namespaceapollo_1_1drivers_1_1gnss_1_1novatel.html',1,'apollo::drivers::gnss']]],
   ['pcl_5futil',['pcl_util',['../namespaceapollo_1_1perception_1_1pcl__util.html',1,'apollo::perception']]],
@@ -42,9 +38,6 @@ var searchData=
   ['third_5fparty_5fperception',['third_party_perception',['../namespaceapollo_1_1third__party__perception.html',1,'apollo']]],
   ['time',['time',['../namespaceapollo_1_1common_1_1time.html',1,'apollo::common']]],
   ['traffic_5flight',['traffic_light',['../namespaceapollo_1_1perception_1_1traffic__light.html',1,'apollo::perception']]],
-  ['util',['util',['../namespaceapollo_1_1common_1_1util.html',1,'apollo::common']]],
-  ['util',['util',['../namespaceapollo_1_1planning_1_1util.html',1,'apollo::planning']]],
-  ['util',['util',['../namespaceapollo_1_1dreamview_1_1util.html',1,'apollo::dreamview']]],
-  ['util',['util',['../namespaceapollo_1_1drivers_1_1util.html',1,'apollo::drivers']]],
+  ['util',['util',['../namespaceapollo_1_1common_1_1util.html',1,'apollo::common::util'],['../namespaceapollo_1_1dreamview_1_1util.html',1,'apollo::dreamview::util'],['../namespaceapollo_1_1drivers_1_1util.html',1,'apollo::drivers::util'],['../namespaceapollo_1_1planning_1_1util.html',1,'apollo::planning::util']]],
   ['velodyne',['velodyne',['../namespaceapollo_1_1drivers_1_1velodyne.html',1,'apollo::drivers']]]
 ];

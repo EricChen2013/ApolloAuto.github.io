@@ -1,0 +1,18 @@
+<map id="modules/perception/lib/base/mutex.h" name="modules/perception/lib/base/mutex.h">
+<area shape="rect" id="node2" href="$concurrent__queue_8h.html" title="modules/perception\l/lib/base/concurrent\l_queue.h" alt="" coords="541,96,676,152"/>
+<area shape="rect" id="node13" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="653,304,824,360"/>
+<area shape="rect" id="node17" href="$tl__preprocessor_8h.html" title="modules/perception\l/traffic_light/preprocessor\l/tl_preprocessor.h" alt="" coords="859,200,1028,256"/>
+<area shape="rect" id="node3" href="$modules_2perception_2onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="519,207,653,249"/>
+<area shape="rect" id="node4" href="$event__manager_8h.html" title="modules/perception\l/onboard/event_manager.h" alt="" coords="373,311,549,353"/>
+<area shape="rect" id="node5" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="441,415,576,457"/>
+<area shape="rect" id="node11" href="$dag__streaming_8h.html" title="modules/perception\l/onboard/dag_streaming.h" alt="" coords="39,415,211,457"/>
+<area shape="rect" id="node6" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="523,512,687,568"/>
+<area shape="rect" id="node7" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="346,512,499,568"/>
+<area shape="rect" id="node8" href="$radar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/radar\l_process_subnode.h" alt="" coords="163,512,321,568"/>
+<area shape="rect" id="node9" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="876,512,1044,568"/>
+<area shape="rect" id="node10" href="$proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/proc_subnode.h" alt="" coords="711,512,851,568"/>
+<area shape="rect" id="node12" href="$perception_8h.html" title="modules/perception\l/perception.h" alt="" coords="5,519,139,561"/>
+<area shape="rect" id="node14" href="$object__shared__data_8h.html" title="modules/perception\l/obstacle/onboard/object\l_shared_data.h" alt="" coords="253,408,416,464"/>
+<area shape="rect" id="node15" href="$subnode__helper_8h.html" title="modules/perception\l/onboard/subnode_helper.h" alt="" coords="601,415,780,457"/>
+<area shape="rect" id="node16" href="$tl__shared__data_8h.html" title="modules/perception\l/traffic_light/base\l/tl_shared_data.h" alt="" coords="855,408,989,464"/>
+</map>

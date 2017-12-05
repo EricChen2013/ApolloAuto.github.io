@@ -1,0 +1,26 @@
+<map id="modules/planning/common/frame.h" name="modules/planning/common/frame.h">
+<area shape="rect" id="node2" href="$planning_8h.html" title="modules/planning/planning.h" alt="" coords="5,215,192,241"/>
+<area shape="rect" id="node4" href="$planner_8h.html" title="modules/planning/planner\l/planner.h" alt="" coords="301,103,469,145"/>
+<area shape="rect" id="node6" href="$rtk__replay__planner_8h.html" title="modules/planning/planner\l/rtk/rtk_replay_planner.h" alt="" coords="217,207,385,249"/>
+<area shape="rect" id="node7" href="$task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="702,103,860,145"/>
+<area shape="rect" id="node17" href="$dp__st__graph_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_graph.h" alt="" coords="885,103,1072,145"/>
+<area shape="rect" id="node18" href="$traffic__rule_8h.html" title="modules/planning/tasks\l/traffic_decider/traffic\l_rule.h" alt="" coords="1981,96,2139,152"/>
+<area shape="rect" id="node3" href="$planning__test__base_8h.html" title="modules/planning/integration\l_tests/planning_test_base.h" alt="" coords="5,311,192,353"/>
+<area shape="rect" id="node5" href="$em__planner_8h.html" title="modules/planning/planner\l/em/em_planner.h" alt="" coords="410,207,579,249"/>
+<area shape="rect" id="node8" href="$path__optimizer_8h.html" title="modules/planning/tasks\l/path_optimizer.h" alt="" coords="1234,207,1392,249"/>
+<area shape="rect" id="node11" href="$speed__optimizer_8h.html" title="modules/planning/tasks\l/speed_optimizer.h" alt="" coords="603,207,761,249"/>
+<area shape="rect" id="node14" href="$path__decider_8h.html" title="modules/planning/tasks\l/path_decider/path_decider.h" alt="" coords="787,207,976,249"/>
+<area shape="rect" id="node15" href="$speed__decider_8h.html" title="modules/planning/tasks\l/speed_decider/speed_decider.h" alt="" coords="1001,207,1209,249"/>
+<area shape="rect" id="node16" href="$traffic__decider_8h.html" title="modules/planning/tasks\l/traffic_decider/traffic\l_decider.h" alt="" coords="1417,200,1575,256"/>
+<area shape="rect" id="node9" href="$dp__poly__path__optimizer_8h.html" title="modules/planning/tasks\l/dp_poly_path/dp_poly\l_path_optimizer.h" alt="" coords="1329,304,1487,360"/>
+<area shape="rect" id="node10" href="$qp__spline__path__optimizer_8h.html" title="modules/planning/tasks\l/qp_spline_path/qp_spline\l_path_optimizer.h" alt="" coords="1133,304,1304,360"/>
+<area shape="rect" id="node12" href="$dp__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/dp_st_speed/dp_st_speed\l_optimizer.h" alt="" coords="699,304,877,360"/>
+<area shape="rect" id="node13" href="$qp__spline__st__speed__optimizer_8h.html" title="modules/planning/tasks\l/qp_spline_st_speed/qp\l_spline_st_speed_optimizer.h" alt="" coords="480,304,675,360"/>
+<area shape="rect" id="node19" href="$backside__vehicle_8h.html" title="modules/planning/tasks\l/traffic_decider/backside\l_vehicle.h" alt="" coords="2354,200,2517,256"/>
+<area shape="rect" id="node20" href="$clear__zone_8h.html" title="modules/planning/tasks\l/traffic_decider/clear\l_zone.h" alt="" coords="2542,200,2700,256"/>
+<area shape="rect" id="node21" href="$crosswalk_8h.html" title="modules/planning/tasks\l/traffic_decider/crosswalk.h" alt="" coords="2725,207,2907,249"/>
+<area shape="rect" id="node22" href="$object__priority_8h.html" title="modules/planning/tasks\l/traffic_decider/object\l_priority.h" alt="" coords="1599,200,1757,256"/>
+<area shape="rect" id="node23" href="$reference__line__end_8h.html" title="modules/planning/tasks\l/traffic_decider/reference\l_line_end.h" alt="" coords="1782,200,1948,256"/>
+<area shape="rect" id="node24" href="$rerouting_8h.html" title="modules/planning/tasks\l/traffic_decider/rerouting.h" alt="" coords="1973,207,2147,249"/>
+<area shape="rect" id="node25" href="$signal__light_8h.html" title="modules/planning/tasks\l/traffic_decider/signal\l_light.h" alt="" coords="2171,200,2329,256"/>
+</map>

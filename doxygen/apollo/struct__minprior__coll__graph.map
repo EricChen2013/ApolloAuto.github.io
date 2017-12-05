@@ -1,0 +1,7 @@
+<map id="_minprior" name="_minprior">
+<area shape="rect" id="node2" href="$struct__gelim.html" title="{_gelim\n|+ maxedges\l+ len\l+ elen\l+ parent\l+ degree\l+ score\l|}" alt="" coords="5,257,99,407"/>
+<area shape="rect" id="node3" href="$struct__graph.html" title="{_graph\n|+ nvtx\l+ nedges\l+ type\l+ totvwght\l+ xadj\l+ adjncy\l+ vwght\l|}" alt="" coords="77,5,160,171"/>
+<area shape="rect" id="node6" href="$struct__multisector.html" title="{_multisector\n|+ stage\l+ nstages\l+ nnodes\l+ totmswght\l|}" alt="" coords="123,271,217,393"/>
+<area shape="rect" id="node4" href="$struct__stageinfo.html" title="{_stageinfo\n|+ nstep\l+ welim\l+ nzf\l+ ops\l|}" alt="" coords="243,271,324,393"/>
+<area shape="rect" id="node5" href="$struct__bucket.html" title="{_bucket\n|+ maxbin\l+ maxitem\l+ offset\l+ nobj\l+ minbin\l+ bin\l+ next\l+ last\l+ key\l|}" alt="" coords="350,235,433,429"/>
+</map>

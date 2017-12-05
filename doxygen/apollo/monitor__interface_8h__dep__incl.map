@@ -1,0 +1,7 @@
+<map id="modules/monitor/common/monitor_interface.h" name="modules/monitor/common/monitor_interface.h">
+<area shape="rect" id="node2" href="$can__monitor_8h.html" title="modules/monitor/hardware\l/can/can_monitor.h" alt="" coords="5,97,179,138"/>
+<area shape="rect" id="node3" href="$gps__monitor_8h.html" title="modules/monitor/hardware\l/gps/gps_monitor.h" alt="" coords="203,97,377,138"/>
+<area shape="rect" id="node4" href="$process__monitor_8h.html" title="modules/monitor/software\l/process_monitor.h" alt="" coords="402,97,573,138"/>
+<area shape="rect" id="node5" href="$summary__monitor_8h.html" title="modules/monitor/software\l/summary_monitor.h" alt="" coords="598,97,769,138"/>
+<area shape="rect" id="node6" href="$topic__monitor_8h.html" title="modules/monitor/software\l/topic_monitor.h" alt="" coords="794,97,965,138"/>
+</map>

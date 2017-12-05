@@ -1,0 +1,10 @@
+<map id="modules/perception/traffic_light/recognizer/unity_recognize.h" name="modules/perception/traffic_light/recognizer/unity_recognize.h">
+<area shape="rect" id="node5" href="$config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/config_manager.h" alt="" coords="497,213,631,269"/>
+<area shape="rect" id="node14" href="$base__recognizer_8h.html" title="modules/perception\l/traffic_light/interface\l/base_recognizer.h" alt="" coords="1380,109,1524,165"/>
+<area shape="rect" id="node28" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="1651,109,1795,165"/>
+<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="476,332,652,359"/>
+<area shape="rect" id="node16" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1054,221,1193,262"/>
+<area shape="rect" id="node21" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="1447,317,1581,373"/>
+<area shape="rect" id="node24" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1709,213,1843,269"/>
+<area shape="rect" id="node18" href="$log_8h.html" title="modules/common/log.h" alt="" coords="879,332,1036,359"/>
+</map>

@@ -1,8 +1,7 @@
 var searchData=
 [
   ['params_2eh',['params.h',['../params_8h.html',1,'']]],
-  ['pardisoloader_2eh',['PardisoLoader.h',['../Ipopt_2src_2contrib_2LinearSolverLoader_2PardisoLoader_8h.html',1,'']]],
-  ['pardisoloader_2eh',['PardisoLoader.h',['../include_2coin_2PardisoLoader_8h.html',1,'']]],
+  ['pardisoloader_2eh',['PardisoLoader.h',['../include_2coin_2PardisoLoader_8h.html',1,'(Global Namespace)'],['../Ipopt_2src_2contrib_2LinearSolverLoader_2PardisoLoader_8h.html',1,'(Global Namespace)']]],
   ['parser_2eh',['parser.h',['../parser_8h.html',1,'']]],
   ['path_2eh',['path.h',['../path_8h.html',1,'']]],
   ['path_5fdata_2eh',['path_data.h',['../path__data_8h.html',1,'']]],

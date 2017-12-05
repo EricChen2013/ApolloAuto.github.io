@@ -1,0 +1,37 @@
+<map id="modules/drivers/delphi_esr/delphi_esr_canbus.h" name="modules/drivers/delphi_esr/delphi_esr_canbus.h">
+<area shape="rect" id="node2" href="$sensor__canbus_8h.html" title="modules/drivers/canbus\l/sensor_canbus.h" alt="" coords="1112,103,1271,145"/>
+<area shape="rect" id="node27" href="$delphi__esr__message__manager_8h.html" title="The class of DelphiESRMessageManager. " alt="" coords="4476,96,4647,152"/>
+<area shape="rect" id="node11" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1965,305,2144,346"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="455,485,631,512"/>
+<area shape="rect" id="node15" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="1779,305,1941,346"/>
+<area shape="rect" id="node16" href="$common_2monitor_2monitor_8h.html" title="modules/common/monitor\l/monitor.h" alt="" coords="1481,305,1652,346"/>
+<area shape="rect" id="node17" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="829,395,983,437"/>
+<area shape="rect" id="node18" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="1309,305,1456,346"/>
+<area shape="rect" id="node20" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="872,305,1031,346"/>
+<area shape="rect" id="node22" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="611,200,769,256"/>
+<area shape="rect" id="node23" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="795,207,973,249"/>
+<area shape="rect" id="node24" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="633,305,847,346"/>
+<area shape="rect" id="node25" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="2269,207,2428,249"/>
+<area shape="rect" id="node29" href="$acm__inst__req__7e0_8h.html" title="modules/drivers/delphi\l_esr/protocol/acm_inst\l_req_7e0.h" alt="" coords="2605,200,2759,256"/>
+<area shape="rect" id="node30" href="$acm__inst__resp__7e4_8h.html" title="modules/drivers/delphi\l_esr/protocol/acm_inst\l_resp_7e4.h" alt="" coords="2784,200,2937,256"/>
+<area shape="rect" id="node31" href="$esr__sim1__5c0_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_sim1_5c0.h" alt="" coords="2963,207,3156,249"/>
+<area shape="rect" id="node32" href="$esr__status1__4e0_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status1_4e0.h" alt="" coords="3181,207,3389,249"/>
+<area shape="rect" id="node33" href="$esr__status2__4e1_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status2_4e1.h" alt="" coords="3413,207,3621,249"/>
+<area shape="rect" id="node34" href="$esr__status3__4e2_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status3_4e2.h" alt="" coords="3645,207,3853,249"/>
+<area shape="rect" id="node35" href="$esr__status4__4e3_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status4_4e3.h" alt="" coords="3877,207,4085,249"/>
+<area shape="rect" id="node36" href="$esr__status5__5e4_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status5_5e4.h" alt="" coords="4109,207,4317,249"/>
+<area shape="rect" id="node37" href="$esr__status6__5e5_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status6_5e5.h" alt="" coords="4341,207,4549,249"/>
+<area shape="rect" id="node38" href="$esr__status7__5e6_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status7_5e6.h" alt="" coords="4573,207,4781,249"/>
+<area shape="rect" id="node39" href="$esr__status8__5e7_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status8_5e7.h" alt="" coords="4805,207,5013,249"/>
+<area shape="rect" id="node40" href="$esr__status9__5e8_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_status9_5e8.h" alt="" coords="5037,207,5245,249"/>
+<area shape="rect" id="node41" href="$esr__track01__500_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_track01_500.h" alt="" coords="5269,207,5477,249"/>
+<area shape="rect" id="node42" href="$esr__trackmotionpower__540_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_trackmotionpower_540.h" alt="" coords="5502,207,5769,249"/>
+<area shape="rect" id="node43" href="$esr__valid1__5d0_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_valid1_5d0.h" alt="" coords="5794,207,5992,249"/>
+<area shape="rect" id="node44" href="$esr__valid2__5d1_8h.html" title="modules/drivers/delphi\l_esr/protocol/esr_valid2_5d1.h" alt="" coords="6017,207,6215,249"/>
+<area shape="rect" id="node45" href="$vehicle1__4f0_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle1_4f0.h" alt="" coords="6239,207,6424,249"/>
+<area shape="rect" id="node46" href="$vehicle2__4f1_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle2_4f1.h" alt="" coords="6449,207,6633,249"/>
+<area shape="rect" id="node47" href="$vehicle3__5f2_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle3_5f2.h" alt="" coords="6658,207,6843,249"/>
+<area shape="rect" id="node48" href="$vehicle4__5f3_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle4_5f3.h" alt="" coords="6867,207,7052,249"/>
+<area shape="rect" id="node49" href="$vehicle5__5f4_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle5_5f4.h" alt="" coords="7077,207,7261,249"/>
+<area shape="rect" id="node50" href="$vehicle6__5f5_8h.html" title="modules/drivers/delphi\l_esr/protocol/vehicle6_5f5.h" alt="" coords="7286,207,7471,249"/>
+</map>

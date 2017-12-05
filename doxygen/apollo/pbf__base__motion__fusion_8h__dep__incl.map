@@ -1,0 +1,10 @@
+<map id="modules/perception/obstacle/fusion/probabilistic_fusion/pbf_base_motion_fusion.h" name="modules/perception/obstacle/fusion/probabilistic_fusion/pbf_base_motion_fusion.h">
+<area shape="rect" id="node2" href="$pbf__track_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_track.h" alt="" coords="383,109,569,165"/>
+<area shape="rect" id="node7" href="$pbf__kalman__motion__fusion_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_kalman_motion\l_fusion.h" alt="" coords="851,214,1037,285"/>
+<area shape="rect" id="node3" href="$pbf__base__track__object__matcher_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_base_track_object\l_matcher.h" alt="" coords="107,214,305,285"/>
+<area shape="rect" id="node4" href="$pbf__hm__track__object__matcher_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_hm_track_object\l_matcher.h" alt="" coords="5,334,195,405"/>
+<area shape="rect" id="node5" href="$probabilistic__fusion_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/probabilistic_fusion.h" alt="" coords="247,341,437,397"/>
+<area shape="rect" id="node8" href="$pbf__track__manager_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_track_manager.h" alt="" coords="381,221,571,277"/>
+<area shape="rect" id="node9" href="$pbf__track__object__distance_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_track_object_distance.h" alt="" coords="595,221,825,277"/>
+<area shape="rect" id="node6" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="261,453,424,509"/>
+</map>

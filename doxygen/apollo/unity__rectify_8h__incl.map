@@ -1,0 +1,10 @@
+<map id="modules/perception/traffic_light/rectify/unity_rectify.h" name="modules/perception/traffic_light/rectify/unity_rectify.h">
+<area shape="rect" id="node5" href="$config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/config_manager.h" alt="" coords="498,213,632,269"/>
+<area shape="rect" id="node14" href="$base__rectifier_8h.html" title="modules/perception\l/traffic_light/interface\l/base_rectifier.h" alt="" coords="1336,109,1480,165"/>
+<area shape="rect" id="node28" href="$green__interface_8h.html" title="modules/perception\l/traffic_light/interface\l/green_interface.h" alt="" coords="1659,109,1803,165"/>
+<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="477,332,653,359"/>
+<area shape="rect" id="node15" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="954,221,1093,262"/>
+<area shape="rect" id="node20" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="1449,317,1583,373"/>
+<area shape="rect" id="node24" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1662,213,1796,269"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="779,332,936,359"/>
+</map>

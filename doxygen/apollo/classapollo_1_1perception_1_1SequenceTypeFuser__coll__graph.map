@@ -1,0 +1,4 @@
+<map id="apollo::perception::SequenceTypeFuser" name="apollo::perception::SequenceTypeFuser">
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1BaseTypeFuser.html" title="{apollo::perception\l::BaseTypeFuser\n||+ BaseTypeFuser()\l+ ~BaseTypeFuser()\l+ Init()\l+ FuseType()\l+ name()\l}" alt="" coords="5,27,147,178"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1ObjectSequence.html" title="{apollo::perception\l::ObjectSequence\n|# _current\l# _sequence\l# _mutex\l# _s_max_time_out\l|+ ObjectSequence()\l+ ~ObjectSequence()\l+ AddTrackedFrameObjects()\l+ GetTrackInTemporalWindow()\l# RemoveStaleTracks()\l}" alt="" coords="172,5,380,200"/>
+</map>
