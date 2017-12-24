@@ -45,7 +45,7 @@ bash scripts/bootstrap.sh
 ```
 ### Access Dreamview
 Access Dreamview by opening your favorite browser, e.g. Chrome, go to http://localhost:8888
-![Access Dreamview](https://github.com/ApolloAuto/apollo/blob/master/docs/demo_guide/images/apollo_bootstrap_screen.png)
+![Access Dreamview](https://raw.githubusercontent.com/ApolloAuto/apollo/master/docs/demo_guide/images/apollo_bootstrap_screen.png)
 
 
 ### Replay demo rosbag
@@ -57,7 +57,7 @@ rosbag play -l ./docs/demo_guide/demo_1.5.np.bag
 ```
 
 Dreamview should show a running vehicle now. (The following image might be different due to changes in frontend.)
-![Dreamview with Trajectory](https://github.com/ApolloAuto/apollo/blob/master/docs/demo_guide/images/dv_trajectory_1.5.png)
+![Dreamview with Trajectory](https://raw.githubusercontent.com/ApolloAuto/apollo/master/docs/demo_guide/images/dv_trajectory_1.5.png)
 
 Advanced users who wish to build outside this Docker container can refer
 to the corresponding Docker specification file (`./docker/dev.dockerfile`).
