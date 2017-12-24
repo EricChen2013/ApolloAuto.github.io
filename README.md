@@ -44,7 +44,7 @@ Follow the steps below to launch Apollo:
 bash scripts/bootstrap.sh
 ```
 ### Access Dreamview
-Access Dreamview by opening your favorite browser, e.g. Chrome, go to http://localhost:8888
+Access Dreamview by opening your favorite browser, e.g. Chrome, go to **_http://localhost:8888_**
 ![Access Dreamview](https://raw.githubusercontent.com/ApolloAuto/apollo/master/docs/demo_guide/images/apollo_bootstrap_screen.png)
 
 
