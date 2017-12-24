@@ -1,5 +1,3 @@
 <map id="modules/monitor/software/process_monitor.h" name="modules/monitor/software/process_monitor.h">
-<area shape="rect" id="node4" href="$monitor__interface_8h.html" title="modules/monitor/common\l/monitor_interface.h" alt="" coords="443,97,615,138"/>
-<area shape="rect" id="node5" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="763,195,939,221"/>
-<area shape="rect" id="node8" href="$recurrent__runner_8h.html" title="modules/monitor/common\l/recurrent_runner.h" alt="" coords="114,187,285,229"/>
+<area shape="rect" id="node4" href="$recurrent__runner_8h.html" title="modules/monitor/common\l/recurrent_runner.h" alt="" coords="127,97,299,138"/>
 </map>

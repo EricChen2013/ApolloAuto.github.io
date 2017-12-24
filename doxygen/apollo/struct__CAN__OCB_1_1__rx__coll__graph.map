@@ -1,0 +1,4 @@
+<map id="_CAN_OCB::_rx" name="_CAN_OCB::_rx">
+<area shape="rect" id="node2" href="$structCAN__MSG__T.html" title="{CAN_MSG_T\n|+ id\l+ len\l+ msg_lost\l+ reserved\l+ c\l+ s\l+ l\l+ ll\l+ buf\l|}" alt="" coords="21,147,123,341"/>
+<area shape="rect" id="node3" href="$unionCAN__TIMESTAMP.html" title="{CAN_TIMESTAMP\n|+ tick\l|}" alt="" coords="4,5,139,83"/>
+</map>

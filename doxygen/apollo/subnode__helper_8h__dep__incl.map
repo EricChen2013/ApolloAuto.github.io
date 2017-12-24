@@ -1,4 +1,4 @@
 <map id="modules/perception/onboard/subnode_helper.h" name="modules/perception/onboard/subnode_helper.h">
 <area shape="rect" id="node2" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="5,96,168,152"/>
-<area shape="rect" id="node3" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="193,96,361,152"/>
+<area shape="rect" id="node3" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="193,96,375,152"/>
 </map>

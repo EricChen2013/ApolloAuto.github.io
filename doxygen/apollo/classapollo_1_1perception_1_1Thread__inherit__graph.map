@@ -6,6 +6,6 @@
 <area shape="rect" id="node6" href="$classapollo_1_1perception_1_1FusionSubnode.html" title="{apollo::perception\l::FusionSubnode\n||+ FusionSubnode()\l+ ~FusionSubnode()\l+ ProcEvents()\l+ GeneratePbMsg()\l# InitInternal()\l}" alt="" coords="185,713,324,863"/>
 <area shape="rect" id="node7" href="$classapollo_1_1perception_1_1LidarProcessSubnode.html" title="{apollo::perception\l::LidarProcessSubnode\n||+ LidarProcessSubnode()\l+ ~LidarProcessSubnode()\l+ ProcEvents()\l}" alt="" coords="349,727,525,849"/>
 <area shape="rect" id="node8" href="$classapollo_1_1perception_1_1RadarProcessSubnode.html" title="{apollo::perception\l::RadarProcessSubnode\n||+ RadarProcessSubnode()\l+ ~RadarProcessSubnode()\l+ ProcEvents()\l}" alt="" coords="551,727,735,849"/>
-<area shape="rect" id="node9" href="$classapollo_1_1perception_1_1traffic__light_1_1TLPreprocessorSubnode.html" title="{apollo::perception\l::traffic_light::TLPreprocessor\lSubnode\n|+ _s_image_borders\l|+ TLPreprocessorSubnode()\l+ ~TLPreprocessorSubnode()\l+ ProcEvents()\l# InitInternal()\l}" alt="" coords="759,713,953,863"/>
+<area shape="rect" id="node9" href="$classapollo_1_1perception_1_1traffic__light_1_1TLPreprocessorSubnode.html" title="pre&#45;processor subnode " alt="" coords="759,713,953,863"/>
 <area shape="rect" id="node10" href="$classapollo_1_1perception_1_1traffic__light_1_1TLProcSubnode.html" title="{apollo::perception\l::traffic_light::TLProcSubnode\n||+ TLProcSubnode()\l+ ~TLProcSubnode()\l+ ProcEvents()\l# InitInternal()\l# ProcEvent()\l}" alt="" coords="977,713,1172,863"/>
 </map>

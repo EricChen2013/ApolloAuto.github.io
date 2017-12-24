@@ -1,0 +1,9 @@
+<map id="_CAN_NODE" name="_CAN_NODE">
+<area shape="rect" id="node5" href="$struct__CAN__CARD.html" title="{_CAN_CARD\n|+ base\l+ range\l+ irq\l+ num_nodes\l+ card_no\l+ features\l+ serial\l+ board_status\l+ doNotTouch\l+ reserved\l|}" alt="" coords="205,955,314,1165"/>
+<area shape="rect" id="node2" href="$struct__CAN__NODE__STAT.html" title="{_CAN_NODE_STAT\n|+ msg_count_std\l+ msg_count_ext\l|}" alt="" coords="355,481,499,573"/>
+<area shape="rect" id="node3" href="$struct__CAN__BUS__STAT.html" title="{_CAN_BUS_STAT\n|+ timestamp\l+ ctrl_ovr_count\l+ fifo_ovr_count\l+ err_frames_count\l+ rcv_byte_count\l+ xmit_byte_count\l+ abort_frames_count\l+ rcv_count_fd\l+ xmit_count_fd\l+ bit_count\l|}" alt="" coords="353,206,501,415"/>
+<area shape="rect" id="node4" href="$struct__CAN__FRAME__COUNT.html" title="{_CAN_FRAME_COUNT\n|+ std_data\l+ std_rtr\l+ ext_data\l+ ext_rtr\l|}" alt="" coords="344,6,510,127"/>
+<area shape="rect" id="node6" href="$union__CARD__IDENT.html" title="{_CARD_IDENT\n|+ spaces\l+ name\l+ vendor\l+ device\l+ subVendor\l+ subDevice\l+ class\l+ classMask\l+ misc\l+ ids\land 7 more...\l|}" alt="" coords="73,637,189,861"/>
+<area shape="rect" id="node7" href="$struct__CARD__IRQ.html" title="{_CARD_IRQ\n|+ handler\l+ context\l|}" alt="" coords="6,481,105,573"/>
+<area shape="rect" id="node8" href="$struct__VERSION96.html" title="{_VERSION96\n|+ level\l+ revision\l+ build\l|}" alt="" coords="214,696,318,803"/>
+</map>

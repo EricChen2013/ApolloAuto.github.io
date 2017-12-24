@@ -1,24 +1,24 @@
 <map id="modules/drivers/conti_radar/conti_radar_canbus.h" name="modules/drivers/conti_radar/conti_radar_canbus.h">
-<area shape="rect" id="node7" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1927,207,2105,249"/>
-<area shape="rect" id="node12" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="3279,499,3432,541"/>
-<area shape="rect" id="node19" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="3736,597,3912,624"/>
-<area shape="rect" id="node22" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="1287,499,1433,541"/>
-<area shape="rect" id="node35" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="737,499,900,541"/>
-<area shape="rect" id="node38" href="$common_2monitor_2monitor_8h.html" title="modules/common/monitor\l/monitor.h" alt="" coords="434,402,605,443"/>
-<area shape="rect" id="node41" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="2423,499,2581,541"/>
-<area shape="rect" id="node43" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="3331,395,3489,451"/>
-<area shape="rect" id="node44" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="2824,305,3003,346"/>
-<area shape="rect" id="node45" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="2939,402,3153,443"/>
-<area shape="rect" id="node46" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="2590,402,2761,443"/>
-<area shape="rect" id="node48" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="3948,207,4107,249"/>
-<area shape="rect" id="node49" href="$conti__radar__message__manager_8h.html" title="The class of ContiRadarMessageManager. " alt="" coords="3211,96,3397,152"/>
-<area shape="rect" id="node50" href="$radar__config__200_8h.html" title="modules/drivers/conti\l_radar/protocol/radar\l_config_200.h" alt="" coords="3483,200,3629,256"/>
-<area shape="rect" id="node10" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1711,402,1889,443"/>
-<area shape="rect" id="node18" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2545,597,2703,624"/>
-<area shape="rect" id="node29" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="1407,305,1585,346"/>
-<area shape="rect" id="node34" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="2810,499,3000,541"/>
-<area shape="rect" id="node16" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="3320,590,3491,631"/>
-<area shape="rect" id="node25" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="1051,590,1209,631"/>
-<area shape="rect" id="node37" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="571,590,735,631"/>
-<area shape="rect" id="node40" href="$monitor__buffer_8h.html" title="The class of MonitorBuffer. " alt="" coords="346,499,517,541"/>
+<area shape="rect" id="node7" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="1771,207,1949,249"/>
+<area shape="rect" id="node11" href="$time_8h.html" title="This library provides the utilities to deal with timestamps. currently our assumption is that every t..." alt="" coords="1007,499,1160,541"/>
+<area shape="rect" id="node18" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="376,597,552,624"/>
+<area shape="rect" id="node21" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="2671,499,2817,541"/>
+<area shape="rect" id="node34" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="2892,499,3055,541"/>
+<area shape="rect" id="node37" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3158,402,3329,443"/>
+<area shape="rect" id="node41" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="519,499,677,541"/>
+<area shape="rect" id="node43" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="564,395,723,451"/>
+<area shape="rect" id="node44" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="437,305,616,346"/>
+<area shape="rect" id="node45" href="$message__manager_8h.html" title="The class of MessageManager. " alt="" coords="850,402,1064,443"/>
+<area shape="rect" id="node46" href="$can__sender_8h.html" title="Defines SenderMessage class and CanSender class. " alt="" coords="1141,402,1312,443"/>
+<area shape="rect" id="node48" href="$sensor__gflags_8h.html" title="modules/drivers/canbus\l/sensor_gflags.h" alt="" coords="131,207,289,249"/>
+<area shape="rect" id="node49" href="$conti__radar__message__manager_8h.html" title="The class of ContiRadarMessageManager. " alt="" coords="1247,96,1433,152"/>
+<area shape="rect" id="node50" href="$radar__config__200_8h.html" title="modules/drivers/conti\l_radar/protocol/radar\l_config_200.h" alt="" coords="1559,200,1705,256"/>
+<area shape="rect" id="node10" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="1923,402,2101,443"/>
+<area shape="rect" id="node17" href="$log_8h.html" title="modules/common/log.h" alt="" coords="720,597,877,624"/>
+<area shape="rect" id="node28" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="1923,305,2101,346"/>
+<area shape="rect" id="node33" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="1743,499,1933,541"/>
+<area shape="rect" id="node15" href="$config__gflags_8h.html" title="modules/common/configs\l/config_gflags.h" alt="" coords="901,590,1072,631"/>
+<area shape="rect" id="node25" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="2697,590,2855,631"/>
+<area shape="rect" id="node36" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="3083,590,3247,631"/>
+<area shape="rect" id="node40" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="3437,499,3608,541"/>
 </map>

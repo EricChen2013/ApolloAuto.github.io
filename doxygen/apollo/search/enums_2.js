@@ -1,7 +1,6 @@
 var searchData=
 [
-  ['cameraid',['CameraId',['../namespaceapollo_1_1perception_1_1traffic__light.html#ac82f39f176ba942e3b6e79862ffb5322',1,'apollo::perception::traffic_light']]],
-  ['clockmode',['ClockMode',['../classapollo_1_1common_1_1time_1_1Clock.html#aea5448fb2fa732f456c24dc436fbff4a',1,'apollo::common::time::Clock']]],
-  ['contimeasstate',['ContiMeasState',['../namespaceapollo_1_1perception.html#aa6164183f60a523cf940f85fc5e18690',1,'apollo::perception']]],
-  ['contiobjecttype',['ContiObjectType',['../namespaceapollo_1_1perception.html#a94dc81ff14b4c2d636bfde08597470a7',1,'apollo::perception']]]
+  ['datumid',['DatumId',['../namespaceapollo_1_1drivers_1_1gnss_1_1novatel.html#aa244c46ca0f4d60bc7f660a56c10a45f',1,'apollo::drivers::gnss::novatel']]],
+  ['detectionclassid',['DetectionClassId',['../namespaceapollo_1_1perception_1_1traffic__light.html#a3216ac951586bf850f2b230684fa3fe1',1,'apollo::perception::traffic_light']]],
+  ['directionmajor',['DirectionMajor',['../classapollo_1_1perception_1_1Bitmap2D.html#a1f08e9d744cbedc916e7502820c71e8d',1,'apollo::perception::Bitmap2D']]]
 ];

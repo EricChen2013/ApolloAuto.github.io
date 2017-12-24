@@ -1,5 +1,13 @@
 <map id="modules/prediction/container/container.h" name="modules/prediction/container/container.h">
-<area shape="rect" id="node2" href="$container__manager_8h.html" title="Use container manager to manage all containers. " alt="" coords="5,96,140,152"/>
-<area shape="rect" id="node3" href="$obstacles__container_8h.html" title="Obstacles container. " alt="" coords="157,200,309,256"/>
-<area shape="rect" id="node4" href="$pose__container_8h.html" title="Obstacles container. " alt="" coords="217,96,359,152"/>
+<area shape="rect" id="node2" href="$adc__trajectory__container_8h.html" title="ADC trajectory container. " alt="" coords="253,96,432,152"/>
+<area shape="rect" id="node10" href="$container__manager_8h.html" title="Use container manager to manage all containers. " alt="" coords="456,96,591,152"/>
+<area shape="rect" id="node11" href="$obstacles__container_8h.html" title="Obstacles container. " alt="" coords="607,200,760,256"/>
+<area shape="rect" id="node12" href="$pose__container_8h.html" title="Obstacles container. " alt="" coords="667,96,809,152"/>
+<area shape="rect" id="node3" href="$predictor_8h.html" title="Define the predictor base class. " alt="" coords="272,207,412,249"/>
+<area shape="rect" id="node4" href="$free__move__predictor_8h.html" title="Define lane sequence predictor. " alt="" coords="5,304,159,360"/>
+<area shape="rect" id="node5" href="$sequence__predictor_8h.html" title="Define the sequence predictor base class. " alt="" coords="185,304,335,360"/>
+<area shape="rect" id="node8" href="$predictor__manager_8h.html" title="Use predictor manager to manage all predictors. " alt="" coords="360,304,489,360"/>
+<area shape="rect" id="node9" href="$regional__predictor_8h.html" title="Define pedestrian predictor. " alt="" coords="515,304,653,360"/>
+<area shape="rect" id="node6" href="$lane__sequence__predictor_8h.html" title="Define lane sequence predictor. " alt="" coords="65,408,247,464"/>
+<area shape="rect" id="node7" href="$move__sequence__predictor_8h.html" title="Define move sequence predictor. " alt="" coords="271,408,460,464"/>
 </map>

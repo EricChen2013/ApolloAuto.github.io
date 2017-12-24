@@ -1,6 +1,6 @@
 <map id="modules/planning/math/curve1d/quintic_polynomial_curve1d.h" name="modules/planning/math/curve1d/quintic_polynomial_curve1d.h">
 <area shape="rect" id="node2" href="$quintic__spiral__path_8h.html" title="modules/planning/math\l/curve1d/quintic_spiral\l_path.h" alt="" coords="30,109,185,165"/>
-<area shape="rect" id="node4" href="$dp__road__graph_8h.html" title="modules/planning/tasks\l/dp_poly_path/dp_road\l_graph.h" alt="" coords="210,109,368,165"/>
-<area shape="rect" id="node5" href="$trajectory__cost_8h.html" title="modules/planning/tasks\l/dp_poly_path/trajectory\l_cost.h" alt="" coords="393,109,553,165"/>
-<area shape="rect" id="node3" href="$spiral__problem__interface_8h.html" title="modules/planning/reference\l_line/spiral_problem_interface.h" alt="" coords="5,214,211,255"/>
+<area shape="rect" id="node4" href="$dp__road__graph_8h.html" title="modules/planning/tasks\l/dp_poly_path/dp_road\l_graph.h" alt="" coords="249,213,407,269"/>
+<area shape="rect" id="node5" href="$trajectory__cost_8h.html" title="modules/planning/tasks\l/dp_poly_path/trajectory\l_cost.h" alt="" coords="262,109,423,165"/>
+<area shape="rect" id="node3" href="$spiral__problem__interface_8h.html" title="modules/planning/reference\l_line/spiral_problem_interface.h" alt="" coords="5,221,211,262"/>
 </map>

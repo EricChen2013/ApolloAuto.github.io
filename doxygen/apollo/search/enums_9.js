@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['pixel_5fformat',['pixel_format',['../classusb__cam_1_1UsbCam.html#a1864dd508d7ef7754df4d2856007ae96',1,'usb_cam::UsbCam']]]
+  ['responsebit',['ResponseBit',['../structapollo_1_1drivers_1_1gnss_1_1novatel_1_1MessageType.html#a4caabc8acdc778f2d105d27a7ba3abc6',1,'apollo::drivers::gnss::novatel::MessageType']]]
 ];

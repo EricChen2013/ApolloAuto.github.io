@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['f',['F',['../eval_8h.html#a42257a545daf5b7933d6e8f96adc74f2',1,'eval.h']]],
-  ['f77_5ffunc',['F77_FUNC',['../configall__system__msc_8h.html#a1d95eeccc21a227ad1f5b1a5e24026b6',1,'F77_FUNC():&#160;configall_system_msc.h'],['../src_2Common_2config_8h.html#a1d95eeccc21a227ad1f5b1a5e24026b6',1,'F77_FUNC():&#160;config.h']]],
-  ['f77_5ffunc_5f',['F77_FUNC_',['../configall__system__msc_8h.html#a650564a7c99e2e6c95c4bec1b0ca5790',1,'F77_FUNC_():&#160;configall_system_msc.h'],['../src_2Common_2config_8h.html#a650564a7c99e2e6c95c4bec1b0ca5790',1,'F77_FUNC_():&#160;config.h']]],
-  ['f_5fsymbol',['F_SYMBOL',['../mumps__common_8h.html#a5fc6d17c72fad17a6532924529bc0444',1,'mumps_common.h']]],
-  ['false',['FALSE',['../include_2coin_2IpStdCInterface_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;IpStdCInterface.h'],['../Ipopt_2src_2Interfaces_2IpStdCInterface_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;IpStdCInterface.h'],['../const_8h.html#aa93f0eb578d23995850d61f7d61c55c1',1,'FALSE():&#160;const.h']]],
-  ['fortran',['FORTRAN',['../space_8h.html#ad896f99cdb9112364c350dd95b349c16',1,'space.h']]],
-  ['fortran_5finteger_5ftype',['FORTRAN_INTEGER_TYPE',['../include_2coin_2IpoptConfig_8h.html#a348f58aa23fc7e1e0d20ee651a446f34',1,'FORTRAN_INTEGER_TYPE():&#160;IpoptConfig.h'],['../MSVisualStudio_2v8-ifort_2IpOpt_2config__ipopt_8h.html#a348f58aa23fc7e1e0d20ee651a446f34',1,'FORTRAN_INTEGER_TYPE():&#160;config_ipopt.h'],['../src_2Common_2config_8h.html#a348f58aa23fc7e1e0d20ee651a446f34',1,'FORTRAN_INTEGER_TYPE():&#160;config.h'],['../src_2Common_2config__ipopt_8h.html#a348f58aa23fc7e1e0d20ee651a446f34',1,'FORTRAN_INTEGER_TYPE():&#160;config_ipopt.h'],['../config__ipopt__default_8h.html#a348f58aa23fc7e1e0d20ee651a446f34',1,'FORTRAN_INTEGER_TYPE():&#160;config_ipopt_default.h']]]
+  ['get_5flnk_5ffirst',['GET_LNK_FIRST',['../nucleus_8h.html#aba535234be828dda1fcfb3482e55969b',1,'nucleus.h']]],
+  ['get_5flnk_5flast',['GET_LNK_LAST',['../nucleus_8h.html#acba003f67922efcea9ea939a4e9e4ef5',1,'nucleus.h']]],
+  ['get_5flnk_5fnext',['GET_LNK_NEXT',['../nucleus_8h.html#a7e21424b4f1e7b7772a3bd06a3f3052c',1,'nucleus.h']]],
+  ['get_5flnk_5fprev',['GET_LNK_PREV',['../nucleus_8h.html#a680906bee9265f492e2d70d3a625d8b3',1,'nucleus.h']]],
+  ['get_5fmacro',['GET_MACRO',['../time_8h.html#a84890a00d8c73dde4e766ef13c716e10',1,'time.h']]],
+  ['glog_5ftimestamp',['GLOG_TIMESTAMP',['../time__util_8h.html#acab710dda80b3168df5a2b2183a12fea',1,'time_util.h']]]
 ];

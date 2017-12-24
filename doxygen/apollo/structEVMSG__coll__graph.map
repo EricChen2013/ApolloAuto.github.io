@@ -1,0 +1,5 @@
+<map id="EVMSG" name="EVMSG">
+<area shape="rect" id="node2" href="$structEV__CAN__ERROR.html" title="{EV_CAN_ERROR\n|+ reserved1\l+ can_status\l+ reserved2\l+ ctrl_overrun\l+ reserved3\l+ fifo_overrun\l|}" alt="" coords="5,27,136,178"/>
+<area shape="rect" id="node3" href="$structEV__CAN__BAUD__CHANGE.html" title="{EV_CAN_BAUD_CHANGE\n|+ baud\l+ num_baud\l|}" alt="" coords="161,57,348,149"/>
+<area shape="rect" id="node4" href="$unionEV__CAN__ERROR__EXT.html" title="{EV_CAN_ERROR_EXT\n|+ status\l+ ecc\l+ rec\l+ tec\l+ sja1000\l+ txstatus\l+ esdacc\l+ sja1000\l+ esdacc\l|}" alt="" coords="372,5,536,200"/>
+</map>

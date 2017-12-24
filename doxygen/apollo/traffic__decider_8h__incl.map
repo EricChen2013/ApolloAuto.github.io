@@ -1,22 +1,23 @@
 <map id="modules/planning/tasks/traffic_decider/traffic_decider.h" name="modules/planning/tasks/traffic_decider/traffic_decider.h">
-<area shape="rect" id="node5" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="2821,311,2985,353"/>
-<area shape="rect" id="node8" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="2884,590,3031,631"/>
-<area shape="rect" id="node18" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="483,311,664,353"/>
-<area shape="rect" id="node33" href="$task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="1669,117,1827,158"/>
-<area shape="rect" id="node50" href="$traffic__rule_8h.html" title="modules/planning/tasks\l/traffic_decider/traffic\l_rule.h" alt="" coords="1851,109,2009,165"/>
-<area shape="rect" id="node12" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2395,688,2552,715"/>
-<area shape="rect" id="node15" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2931,688,3107,715"/>
-<area shape="rect" id="node21" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="398,771,556,813"/>
-<area shape="rect" id="node23" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="776,499,933,541"/>
-<area shape="rect" id="node32" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="483,409,664,450"/>
-<area shape="rect" id="node27" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="794,590,952,631"/>
-<area shape="rect" id="node28" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="449,681,607,722"/>
-<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1603,597,1800,624"/>
-<area shape="rect" id="node31" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="885,681,1072,722"/>
-<area shape="rect" id="node35" href="$frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="1839,214,2016,255"/>
-<area shape="rect" id="node45" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1662,311,1839,353"/>
-<area shape="rect" id="node43" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="2142,681,2319,722"/>
-<area shape="rect" id="node44" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="2138,409,2315,450"/>
-<area shape="rect" id="node49" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="1409,304,1585,360"/>
-<area shape="rect" id="node48" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1673,409,1831,450"/>
+<area shape="rect" id="node5" href="$common_2status_2status_8h.html" title="modules/common/status\l/status.h" alt="" coords="164,305,328,346"/>
+<area shape="rect" id="node8" href="$factory_8h.html" title="Defines the Factory class. " alt="" coords="4219,402,4365,443"/>
+<area shape="rect" id="node18" href="$reference__line_8h.html" title="modules/planning/reference\l_line/reference_line.h" alt="" coords="2572,117,2753,158"/>
+<area shape="rect" id="node33" href="$task_8h.html" title="modules/planning/tasks\l/task.h" alt="" coords="695,117,853,158"/>
+<area shape="rect" id="node50" href="$traffic__rule_8h.html" title="modules/planning/tasks\l/traffic_decider/traffic\l_rule.h" alt="" coords="1626,109,1784,165"/>
+<area shape="rect" id="node12" href="$log_8h.html" title="modules/common/log.h" alt="" coords="4557,507,4715,533"/>
+<area shape="rect" id="node15" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="4235,507,4411,533"/>
+<area shape="rect" id="node21" href="$vec2d_8h.html" title="Defines the Vec2d class. " alt="" coords="3647,590,3805,631"/>
+<area shape="rect" id="node23" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="3524,305,3681,346"/>
+<area shape="rect" id="node32" href="$reference__point_8h.html" title="modules/planning/reference\l_line/reference_point.h" alt="" coords="2824,214,3005,255"/>
+<area shape="rect" id="node27" href="$box2d_8h.html" title="The class of Box2d. Here, the x/y axes are respectively Forward/Left, as opposed to what happens in e..." alt="" coords="3095,402,3253,443"/>
+<area shape="rect" id="node28" href="$line__segment2d_8h.html" title="Define the LineSegment2d class. " alt="" coords="3334,499,3492,541"/>
+<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="3411,409,3608,436"/>
+<area shape="rect" id="node31" href="$hdmap__common_8h.html" title="modules/map/hdmap/hdmap\l_common.h" alt="" coords="3619,499,3805,541"/>
+<area shape="rect" id="node35" href="$frame_8h.html" title="modules/planning/common\l/frame.h" alt="" coords="1282,214,1459,255"/>
+<area shape="rect" id="node44" href="$reference__line__info_8h.html" title="modules/planning/common\l/reference_line_info.h" alt="" coords="1122,402,1299,443"/>
+<area shape="rect" id="node43" href="$change__lane__decider_8h.html" title="modules/planning/common\l/change_lane_decider.h" alt="" coords="690,305,867,346"/>
+<area shape="rect" id="node46" href="$indexed__queue_8h.html" title="modules/planning/common\l/indexed_queue.h" alt="" coords="2207,499,2384,541"/>
+<area shape="rect" id="node47" href="$lag__prediction_8h.html" title="modules/planning/common\l/lag_prediction.h" alt="" coords="1346,305,1523,346"/>
+<area shape="rect" id="node48" href="$planning_2common_2obstacle_8h.html" title="modules/planning/common\l/obstacle.h" alt="" coords="1599,305,1776,346"/>
+<area shape="rect" id="node49" href="$publishable__trajectory_8h.html" title="modules/planning/common\l/trajectory/publishable\l_trajectory.h" alt="" coords="1701,395,1877,451"/>
 </map>

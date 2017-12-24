@@ -1,3 +1,12 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classapollo_1_1planning_1_1Spline1dKernel.html" title="apollo::planning::Spline1d\lKernel" alt="" coords="5,5,176,46"/>
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1Thread.html" title="apollo::perception\l::Thread" alt="" coords="6,103,130,145"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1DAGStreaming.html" title="apollo::perception\l::DAGStreaming" alt="" coords="198,38,322,79"/>
+<area shape="rect" id="node3" href="$classapollo_1_1perception_1_1DAGStreamingMonitor.html" title="apollo::perception\l::DAGStreamingMonitor" alt="" coords="179,103,341,145"/>
+<area shape="rect" id="node4" href="$classapollo_1_1perception_1_1Subnode.html" title="apollo::perception\l::Subnode" alt="" coords="198,169,322,210"/>
+<area shape="rect" id="node5" href="$classapollo_1_1perception_1_1CommonSubnode.html" title="apollo::perception\l::CommonSubnode" alt="" coords="419,5,554,46"/>
+<area shape="rect" id="node6" href="$classapollo_1_1perception_1_1FusionSubnode.html" title="apollo::perception\l::FusionSubnode" alt="" coords="425,70,549,111"/>
+<area shape="rect" id="node7" href="$classapollo_1_1perception_1_1LidarProcessSubnode.html" title="apollo::perception\l::LidarProcessSubnode" alt="" coords="408,135,565,177"/>
+<area shape="rect" id="node8" href="$classapollo_1_1perception_1_1RadarProcessSubnode.html" title="apollo::perception\l::RadarProcessSubnode" alt="" coords="405,201,569,242"/>
+<area shape="rect" id="node9" href="$classapollo_1_1perception_1_1traffic__light_1_1TLPreprocessorSubnode.html" title="pre&#45;processor subnode " alt="" coords="389,265,584,321"/>
+<area shape="rect" id="node10" href="$classapollo_1_1perception_1_1traffic__light_1_1TLProcSubnode.html" title="apollo::perception\l::traffic_light::TLProcSubnode" alt="" coords="389,345,584,386"/>
 </map>

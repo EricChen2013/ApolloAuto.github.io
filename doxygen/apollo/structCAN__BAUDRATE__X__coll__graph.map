@@ -1,0 +1,3 @@
+<map id="CAN_BAUDRATE_X" name="CAN_BAUDRATE_X">
+<area shape="rect" id="node2" href="$structCAN__BAUDRATE__CFG.html" title="{CAN_BAUDRATE_CFG\n|+ mode\l+ idx\l+ brp\l+ tseg1\l+ tseg2\l+ sjw\l+ btr\l+ rate\l+ oldbtr\l+ m\l|}" alt="" coords="5,6,171,215"/>
+</map>

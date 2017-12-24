@@ -24,7 +24,7 @@
 <area shape="rect" id="node37" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="5244,194,5423,235"/>
 <area shape="rect" id="node40" href="$common_2util_2util_8h.html" title="Some util functions. " alt="" coords="4671,382,4817,423"/>
 <area shape="rect" id="node42" href="$apollo__app_8h.html" title="modules/common/apollo\l_app.h" alt="" coords="4841,382,5004,423"/>
-<area shape="rect" id="node43" href="$common_2monitor_2monitor_8h.html" title="modules/common/monitor\l/monitor.h" alt="" coords="5285,382,5456,423"/>
+<area shape="rect" id="node43" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="5285,382,5456,423"/>
 <area shape="rect" id="node45" href="$can__client_8h.html" title="Defines the CanFrame struct and CanClient interface. " alt="" coords="3893,291,4052,333"/>
 <area shape="rect" id="node47" href="$can__client__factory_8h.html" title="Defines the CanClientFactory class. " alt="" coords="3893,187,4052,243"/>
 <area shape="rect" id="node48" href="$can__receiver_8h.html" title="Defines CanReceiver class. " alt="" coords="3640,194,3819,235"/>

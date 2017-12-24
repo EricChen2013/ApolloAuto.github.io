@@ -1,16 +1,15 @@
 <map id="modules/perception/traffic_light/preprocessor/tl_preprocessor.h" name="modules/perception/traffic_light/preprocessor/tl_preprocessor.h">
-<area shape="rect" id="node6" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="1131,117,1265,158"/>
-<area shape="rect" id="node11" href="$timer_8h.html" title="modules/perception\l/lib/base/timer.h" alt="" coords="114,325,248,366"/>
-<area shape="rect" id="node14" href="$config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/config_manager.h" alt="" coords="2738,317,2872,373"/>
-<area shape="rect" id="node19" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="426,421,560,477"/>
-<area shape="rect" id="node23" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="823,213,957,269"/>
-<area shape="rect" id="node29" href="$base__preprocessor_8h.html" title="modules/perception\l/traffic_light/interface\l/base_preprocessor.h" alt="" coords="989,213,1136,269"/>
-<area shape="rect" id="node35" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="1561,109,1740,165"/>
-<area shape="rect" id="node8" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1676,436,1852,463"/>
-<area shape="rect" id="node24" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="818,317,952,373"/>
-<area shape="rect" id="node28" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="977,317,1111,373"/>
-<area shape="rect" id="node30" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1542,325,1681,366"/>
-<area shape="rect" id="node32" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2492,436,2649,463"/>
-<area shape="rect" id="node36" href="$file__util_8h.html" title="modules/perception\l/lib/base/file_util.h" alt="" coords="1822,325,1956,366"/>
-<area shape="rect" id="node40" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="1261,213,1405,269"/>
+<area shape="rect" id="node6" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="307,117,441,158"/>
+<area shape="rect" id="node11" href="$perception_2lib_2base_2timer_8h.html" title="modules/perception\l/lib/base/timer.h" alt="" coords="155,325,289,366"/>
+<area shape="rect" id="node14" href="$config__manager_8h.html" title="modules/perception\l/lib/config_manager\l/config_manager.h" alt="" coords="794,317,928,373"/>
+<area shape="rect" id="node19" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="2480,421,2614,477"/>
+<area shape="rect" id="node23" href="$image__lights_8h.html" title="modules/perception\l/traffic_light/base\l/image_lights.h" alt="" coords="2039,213,2173,269"/>
+<area shape="rect" id="node29" href="$base__preprocessor_8h.html" title="modules/perception\l/traffic_light/interface\l/base_preprocessor.h" alt="" coords="1621,213,1768,269"/>
+<area shape="rect" id="node35" href="$multi__camera__projection_8h.html" title="modules/perception\l/traffic_light/projection\l/multi_camera_projection.h" alt="" coords="1494,109,1673,165"/>
+<area shape="rect" id="node8" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="274,436,450,463"/>
+<area shape="rect" id="node24" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="1902,317,2036,373"/>
+<area shape="rect" id="node28" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="2163,317,2297,373"/>
+<area shape="rect" id="node30" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1295,325,1434,366"/>
+<area shape="rect" id="node32" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1453,436,1610,463"/>
+<area shape="rect" id="node36" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="1792,213,1936,269"/>
 </map>

@@ -1,10 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classapollo_1_1planning_1_1TrafficRule.html" title="apollo::planning::TrafficRule" alt="" coords="5,180,189,207"/>
-<area shape="rect" id="node2" href="$classapollo_1_1planning_1_1BacksideVehicle.html" title="apollo::planning::Backside\lVehicle" alt="" coords="242,5,417,46"/>
-<area shape="rect" id="node3" href="$classapollo_1_1planning_1_1ClearZone.html" title="apollo::planning::ClearZone" alt="" coords="239,71,419,97"/>
-<area shape="rect" id="node4" href="$classapollo_1_1planning_1_1Crosswalk.html" title="apollo::planning::Crosswalk" alt="" coords="238,121,421,148"/>
-<area shape="rect" id="node5" href="$classapollo_1_1planning_1_1ObjectPriority.html" title="apollo::planning::Object\lPriority" alt="" coords="250,173,409,214"/>
-<area shape="rect" id="node6" href="$classapollo_1_1planning_1_1ReferenceLineEnd.html" title="apollo::planning::Reference\lLineEnd" alt="" coords="239,238,419,279"/>
-<area shape="rect" id="node7" href="$classapollo_1_1planning_1_1Rerouting.html" title="apollo::planning::Rerouting" alt="" coords="241,304,417,331"/>
-<area shape="rect" id="node8" href="$classapollo_1_1planning_1_1SignalLight.html" title="apollo::planning::Signal\lLight" alt="" coords="251,355,407,397"/>
+<area shape="rect" id="node1" href="$classapollo_1_1perception_1_1traffic__light_1_1BaseRectifier.html" title="Rectifier receives the Region of lights from HD&#45;Map, While the region may be too large or not accuray..." alt="" coords="5,5,187,46"/>
+<area shape="rect" id="node2" href="$classapollo_1_1perception_1_1traffic__light_1_1UnityRectify.html" title="Rectifier receives the Region of lights from HD&#45;Map, While the region may be too large or not accuray..." alt="" coords="235,5,410,46"/>
 </map>

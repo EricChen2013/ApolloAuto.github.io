@@ -1,8 +1,7 @@
 <map id="modules/perception/onboard/event_manager.h" name="modules/perception/onboard/event_manager.h">
-<area shape="rect" id="node7" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="240,381,416,408"/>
-<area shape="rect" id="node11" href="$modules_2perception_2onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="230,97,364,138"/>
-<area shape="rect" id="node12" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="390,194,524,235"/>
-<area shape="rect" id="node14" href="$concurrent__queue_8h.html" title="modules/perception\l/lib/base/concurrent\l_queue.h" alt="" coords="229,187,364,243"/>
-<area shape="rect" id="node18" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="67,291,201,333"/>
-<area shape="rect" id="node16" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="307,291,441,333"/>
+<area shape="rect" id="node7" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="264,381,440,408"/>
+<area shape="rect" id="node11" href="$onboard_2types_8h.html" title="modules/perception\l/onboard/types.h" alt="" coords="202,97,336,138"/>
+<area shape="rect" id="node12" href="$concurrent__queue_8h.html" title="modules/perception\l/lib/base/concurrent\l_queue.h" alt="" coords="251,187,385,243"/>
+<area shape="rect" id="node16" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="11,291,145,333"/>
+<area shape="rect" id="node14" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="251,291,385,333"/>
 </map>

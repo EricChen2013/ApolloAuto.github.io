@@ -1,10 +1,11 @@
 <map id="modules/perception/onboard/shared_data_manager.h" name="modules/perception/onboard/shared_data_manager.h">
-<area shape="rect" id="node2" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="468,110,603,151"/>
-<area shape="rect" id="node8" href="$dag__streaming_8h.html" title="modules/perception\l/onboard/dag_streaming.h" alt="" coords="803,110,975,151"/>
+<area shape="rect" id="node2" href="$subnode_8h.html" title="modules/perception\l/onboard/subnode.h" alt="" coords="479,110,613,151"/>
+<area shape="rect" id="node8" href="$dag__streaming_8h.html" title="modules/perception\l/onboard/dag_streaming.h" alt="" coords="905,110,1076,151"/>
 <area shape="rect" id="node3" href="$fusion__subnode_8h.html" title="modules/perception\l/obstacle/onboard/fusion\l_subnode.h" alt="" coords="5,200,168,256"/>
 <area shape="rect" id="node4" href="$lidar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/lidar\l_process_subnode.h" alt="" coords="193,200,345,256"/>
 <area shape="rect" id="node5" href="$radar__process__subnode_8h.html" title="modules/perception\l/obstacle/onboard/radar\l_process_subnode.h" alt="" coords="370,200,528,256"/>
-<area shape="rect" id="node6" href="$preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/preprocessor_subnode.h" alt="" coords="553,200,721,256"/>
-<area shape="rect" id="node7" href="$proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/proc_subnode.h" alt="" coords="746,200,885,256"/>
-<area shape="rect" id="node9" href="$perception_8h.html" title="modules/perception\l/perception.h" alt="" coords="910,207,1044,249"/>
+<area shape="rect" id="node6" href="$tl__preprocessor__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_preprocessor_subnode.h" alt="" coords="553,200,735,256"/>
+<area shape="rect" id="node7" href="$tl__proc__subnode_8h.html" title="modules/perception\l/traffic_light/onboard\l/tl_proc_subnode.h" alt="" coords="759,200,899,256"/>
+<area shape="rect" id="node9" href="$perception_8h.html" title="modules/perception\l/perception.h" alt="" coords="923,207,1057,249"/>
+<area shape="rect" id="node10" href="$export__sensor__data_8h.html" title="modules/perception\l/tool/export_sensor\l_data/export_sensor_data.h" alt="" coords="1082,200,1264,256"/>
 </map>

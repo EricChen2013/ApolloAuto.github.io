@@ -1,9 +1,10 @@
 var searchData=
 [
+  ['taskqueuetype',['TaskQueueType',['../classapollo_1_1localization_1_1ThreadPoolImpl.html#acadb50d9084e5bc661904c35356703b7',1,'apollo::localization::ThreadPoolImpl']]],
+  ['tasktype',['TaskType',['../classapollo_1_1localization_1_1FifoScheduler.html#a7bd0c2cf8e39789efc32efcd01d605f9',1,'apollo::localization::FifoScheduler::TaskType()'],['../classapollo_1_1localization_1_1ThreadPoolImpl.html#aa23671cd4c05191a4a0e57fc7190094a',1,'apollo::localization::ThreadPoolImpl::TaskType()']]],
   ['threadsafeindexedobstacles',['ThreadSafeIndexedObstacles',['../namespaceapollo_1_1planning.html#a4502102d034138baafc944b7f684105f',1,'apollo::planning']]],
   ['timepoint',['TimePoint',['../namespaceapollo_1_1perception.html#a99ae6e6bd52eed60617bd9471921b805',1,'apollo::perception']]],
   ['timestamp',['Timestamp',['../namespaceapollo_1_1common_1_1time.html#aacf1c652dbeb06360bc386900770b0f2',1,'apollo::common::time']]],
-  ['timings_5ft',['timings_t',['../data_2Ipopt-3_812_88_2ThirdParty_2Mumps_2MUMPS_2PORD_2include_2types_8h.html#a2b970009b970cb9d5798d79dafedfef9',1,'types.h']]],
   ['tlcolor',['TLColor',['../namespaceapollo_1_1perception_1_1traffic__light.html#a0e2c482dd9af8f527cb1079ce138384e',1,'apollo::perception::traffic_light']]],
   ['trackedobjectconstptr',['TrackedObjectConstPtr',['../namespaceapollo_1_1perception.html#a117c87fd7e98fb72fc5c114290dd53ea',1,'apollo::perception']]],
   ['trackedobjectptr',['TrackedObjectPtr',['../namespaceapollo_1_1perception.html#a76ee906ec2f48a2da38317e4e2a1be4c',1,'apollo::perception']]],

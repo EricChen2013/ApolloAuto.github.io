@@ -1,11 +1,10 @@
 <map id="modules/perception/obstacle/lidar/interface/base_type_fuser.h" name="modules/perception/obstacle/lidar/interface/base_type_fuser.h">
-<area shape="rect" id="node4" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1479,312,1655,339"/>
-<area shape="rect" id="node7" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1139,110,1279,151"/>
-<area shape="rect" id="node13" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="503,110,660,151"/>
-<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1297,215,1455,241"/>
-<area shape="rect" id="node17" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="853,207,987,249"/>
-<area shape="rect" id="node19" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="537,395,691,437"/>
-<area shape="rect" id="node26" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="117,200,264,256"/>
-<area shape="rect" id="node27" href="$modules_2perception_2obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="76,305,229,346"/>
-<area shape="rect" id="node28" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="86,395,220,437"/>
+<area shape="rect" id="node4" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1599,312,1775,339"/>
+<area shape="rect" id="node7" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1259,110,1399,151"/>
+<area shape="rect" id="node13" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="623,110,780,151"/>
+<area shape="rect" id="node10" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1417,215,1575,241"/>
+<area shape="rect" id="node17" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="973,207,1107,249"/>
+<area shape="rect" id="node19" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="445,395,599,437"/>
+<area shape="rect" id="node26" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="237,200,384,256"/>
+<area shape="rect" id="node27" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="217,305,371,346"/>
 </map>

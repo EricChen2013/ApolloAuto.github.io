@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['get_5fmacro',['GET_MACRO',['../time_8h.html#a84890a00d8c73dde4e766ef13c716e10',1,'time.h']]],
-  ['glog_5ftimestamp',['GLOG_TIMESTAMP',['../time__util_8h.html#acab710dda80b3168df5a2b2183a12fea',1,'time_util.h']]],
-  ['gray',['GRAY',['../const_8h.html#ae5f70677050eecd8909e0248e07b9e73',1,'const.h']]],
-  ['grid',['GRID',['../const_8h.html#ac389dbca21e58410d552988f3ec954c3',1,'const.h']]]
+  ['hardts',['HARDTS',['../boardrc_8h.html#a5a04e2c0829db97d7f71ce5a0600c39e',1,'boardrc.h']]],
+  ['hardts_5ffreq',['HARDTS_FREQ',['../boardrc_8h.html#a4e1eabfea1bb65d1092d9470a311569d',1,'boardrc.h']]]
 ];

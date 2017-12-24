@@ -1,25 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classapollo_1_1drivers_1_1canbus_1_1ProtocolData.html" title="apollo::drivers::canbus\l::ProtocolData\&lt; ::apollo\l::canbus::ChassisDetail \&gt;" alt="" coords="6,684,181,740"/>
-<area shape="rect" id="node2" href="$classapollo_1_1canbus_1_1lincoln_1_1Accel6b.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,5,381,46"/>
-<area shape="rect" id="node3" href="$classapollo_1_1canbus_1_1lincoln_1_1Brake60.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,70,381,111"/>
-<area shape="rect" id="node4" href="$classapollo_1_1canbus_1_1lincoln_1_1Brake61.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,135,381,177"/>
-<area shape="rect" id="node5" href="$classapollo_1_1canbus_1_1lincoln_1_1Brakeinfo74.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,201,381,242"/>
-<area shape="rect" id="node6" href="$classapollo_1_1canbus_1_1lincoln_1_1Fuellevel72.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,266,381,307"/>
-<area shape="rect" id="node7" href="$classapollo_1_1canbus_1_1lincoln_1_1Gear66.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,331,381,373"/>
-<area shape="rect" id="node8" href="$classapollo_1_1canbus_1_1lincoln_1_1Gear67.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,397,381,438"/>
-<area shape="rect" id="node9" href="$classapollo_1_1canbus_1_1lincoln_1_1Gps6d.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,462,381,503"/>
-<area shape="rect" id="node10" href="$classapollo_1_1canbus_1_1lincoln_1_1Gps6e.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,527,381,569"/>
-<area shape="rect" id="node11" href="$classapollo_1_1canbus_1_1lincoln_1_1Gps6f.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,593,381,634"/>
-<area shape="rect" id="node12" href="$classapollo_1_1canbus_1_1lincoln_1_1Gyro6c.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,658,381,699"/>
-<area shape="rect" id="node13" href="$classapollo_1_1canbus_1_1lincoln_1_1License7e.html" title="apollo::canbus::lincoln\l::License7e" alt="" coords="230,723,381,765"/>
-<area shape="rect" id="node14" href="$classapollo_1_1canbus_1_1lincoln_1_1Misc69.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,789,381,830"/>
-<area shape="rect" id="node15" href="$classapollo_1_1canbus_1_1lincoln_1_1Steering64.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,854,381,895"/>
-<area shape="rect" id="node16" href="$classapollo_1_1canbus_1_1lincoln_1_1Steering65.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,919,381,961"/>
-<area shape="rect" id="node17" href="$classapollo_1_1canbus_1_1lincoln_1_1Throttle62.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,985,381,1026"/>
-<area shape="rect" id="node18" href="$classapollo_1_1canbus_1_1lincoln_1_1Throttle63.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1050,381,1091"/>
-<area shape="rect" id="node19" href="$classapollo_1_1canbus_1_1lincoln_1_1Throttleinfo75.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1115,381,1157"/>
-<area shape="rect" id="node20" href="$classapollo_1_1canbus_1_1lincoln_1_1Tirepressure71.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1181,381,1222"/>
-<area shape="rect" id="node21" href="$classapollo_1_1canbus_1_1lincoln_1_1Turnsignal68.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1246,381,1287"/>
-<area shape="rect" id="node22" href="$classapollo_1_1canbus_1_1lincoln_1_1Version7f.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1311,381,1353"/>
-<area shape="rect" id="node23" href="$classapollo_1_1canbus_1_1lincoln_1_1Wheelspeed6a.html" title="one of the protocol data of lincoln vehicle " alt="" coords="230,1377,381,1418"/>
+<area shape="rect" id="node1" href="$classapollo_1_1control_1_1Controller.html" title="base class for all controllers. " alt="" coords="6,56,173,83"/>
+<area shape="rect" id="node2" href="$classapollo_1_1control_1_1LatController.html" title="LQR&#45;Based lateral controller, to compute steering target. For more details, please refer to &quot;Vehicle ..." alt="" coords="227,5,413,32"/>
+<area shape="rect" id="node3" href="$classapollo_1_1control_1_1LonController.html" title="Longitudinal controller, to compute brake / throttle values. " alt="" coords="226,56,414,83"/>
+<area shape="rect" id="node4" href="$classapollo_1_1control_1_1MPCController.html" title="LQR&#45;Based lateral controller, to compute steering target. For more details, please refer to &quot;Vehicle ..." alt="" coords="221,107,419,133"/>
 </map>

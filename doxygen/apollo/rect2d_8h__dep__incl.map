@@ -1,0 +1,17 @@
+<map id="modules/localization/msf/common/util/rect2d.h" name="modules/localization/msf/common/util/rect2d.h">
+<area shape="rect" id="node2" href="$base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="685,96,859,152"/>
+<area shape="rect" id="node3" href="$base__map_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map.h" alt="" coords="759,424,933,480"/>
+<area shape="rect" id="node6" href="$base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="382,320,556,376"/>
+<area shape="rect" id="node9" href="$lossless__map__pool_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_pool.h" alt="" coords="465,632,644,688"/>
+<area shape="rect" id="node12" href="$lossy__map__pool__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_pool_2d.h" alt="" coords="45,632,229,688"/>
+<area shape="rect" id="node13" href="$base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="534,208,708,264"/>
+<area shape="rect" id="node14" href="$lossless__map__config_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_config.h" alt="" coords="835,320,1025,376"/>
+<area shape="rect" id="node15" href="$lossy__map__config__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_config_2d.h" alt="" coords="1051,320,1245,376"/>
+<area shape="rect" id="node16" href="$offline__local__visualizer_8h.html" title="The offline tool for localization visualization. " alt="" coords="937,201,1145,271"/>
+<area shape="rect" id="node4" href="$lossless__map_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map.h" alt="" coords="780,528,943,584"/>
+<area shape="rect" id="node5" href="$lossy__map__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_2d.h" alt="" coords="997,528,1149,584"/>
+<area shape="rect" id="node7" href="$lossless__map__matrix_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_matrix.h" alt="" coords="315,424,507,480"/>
+<area shape="rect" id="node8" href="$lossless__map__node_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_node.h" alt="" coords="373,528,557,584"/>
+<area shape="rect" id="node10" href="$lossy__map__matrix__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_matrix_2d.h" alt="" coords="43,424,239,480"/>
+<area shape="rect" id="node11" href="$lossy__map__node__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_node_2d.h" alt="" coords="110,528,297,584"/>
+</map>

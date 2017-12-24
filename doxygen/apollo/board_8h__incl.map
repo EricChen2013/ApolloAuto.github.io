@@ -1,0 +1,14 @@
+<map id="data/apollo&#45;internal/esd_can_driver/board.h" name="data/apollo&#45;internal/esd_can_driver/board.h">
+<area shape="rect" id="node2" href="$esdcan_8h.html" title="Contains CAN_OCB, CAN_NODE&#45;defines and related stuff. " alt="" coords="708,96,781,123"/>
+<area shape="rect" id="node3" href="$osif_8h.html" title="OSIF header. " alt="" coords="636,320,690,347"/>
+<area shape="rect" id="node19" href="$boardrc_8h.html" title="Board specific board API. " alt="" coords="707,171,782,197"/>
+<area shape="rect" id="node22" href="$cm_8h.html" title="Contains common CAN&#45;message&#45;structure (CM) and defines such as feature&#45;flags, mode&#45;flags. These defines are visible to the user, nevertheless: Dear user, please, use the defines in ntcan.h! " alt="" coords="808,171,858,197"/>
+<area shape="rect" id="node4" href="$osiftypes_8h.html" title="OSIFTypes header. " alt="" coords="211,395,297,421"/>
+<area shape="rect" id="node7" href="$osifi_8h.html" title="OSIF operating system wrapping header. " alt="" coords="583,395,640,421"/>
+<area shape="rect" id="node16" href="$canio_8h.html" title="canio.h" alt="" coords="1030,395,1094,421"/>
+<area shape="rect" id="node5" href="$sys__osiftypes_8h.html" title="sys_osiftypes.h" alt="" coords="416,544,530,571"/>
+<area shape="rect" id="node14" href="$sysdep_8h.html" title="Adaption of Linux kernel version changes. " alt="" coords="816,469,889,496"/>
+<area shape="rect" id="node15" href="$osif__spi_8h.html" title="osif_spi.h" alt="" coords="915,469,993,496"/>
+<area shape="rect" id="node20" href="$esdaccrc_8h.html" title="Common esdACC board ressources. " alt="" coords="702,245,788,272"/>
+<area shape="rect" id="node21" href="$flashtail_8h.html" title="Structure of the system info page. " alt="" coords="1019,320,1097,347"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="modules/localization/msf/local_map/lossy_map/lossy_map_2d.h" name="modules/localization/msf/local_map/lossy_map/lossy_map_2d.h">
+<area shape="rect" id="node2" href="$base__map_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map.h" alt="" coords="691,109,865,165"/>
+<area shape="rect" id="node32" href="$lossy__map__config__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_config_2d.h" alt="" coords="1889,317,2083,373"/>
+<area shape="rect" id="node7" href="$base__map__cache_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_cache.h" alt="" coords="155,213,329,269"/>
+<area shape="rect" id="node11" href="$base__map__fwd_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_fwd.h" alt="" coords="775,525,949,581"/>
+<area shape="rect" id="node14" href="$base__map__config_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_config.h" alt="" coords="1537,421,1711,477"/>
+<area shape="rect" id="node20" href="$base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="1195,213,1369,269"/>
+<area shape="rect" id="node22" href="$base__map__node__index_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node_index.h" alt="" coords="1412,317,1586,373"/>
+<area shape="rect" id="node23" href="$base__map__pool_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_pool.h" alt="" coords="480,213,654,269"/>
+<area shape="rect" id="node19" href="$rect2d_8h.html" title="modules/localization\l/msf/common/util/rect2d.h" alt="" coords="1443,533,1617,574"/>
+<area shape="rect" id="node21" href="$compression_8h.html" title="modules/localization\l/msf/common/util/compression.h" alt="" coords="949,429,1161,470"/>
+<area shape="rect" id="node24" href="$threadpool_8h.html" title="modules/localization\l/msf/common/util/threadpool.h" alt="" coords="536,325,734,366"/>
+<area shape="rect" id="node30" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1235,436,1411,463"/>
+</map>

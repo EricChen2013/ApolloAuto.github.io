@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['topoedgetype',['TopoEdgeType',['../namespaceapollo_1_1routing.html#a2a784f10761c9fe1c8839403ef010b24',1,'apollo::routing']]],
-  ['triggerfrequence',['TriggerFrequence',['../namespaceusb__cam.html#a403d4a03c8e47d2aec4077fa9ba84292',1,'usb_cam']]]
+  ['validmasks',['ValidMasks',['../classapollo_1_1monitor_1_1hw_1_1EsdCanDetails.html#afcce94fb8963f1bf7bcaeddbb5145080',1,'apollo::monitor::hw::EsdCanDetails']]]
 ];

@@ -1,5 +1,4 @@
 <map id="modules/perception/obstacle/radar/modest/radar_util.h" name="modules/perception/obstacle/radar/modest/radar_util.h">
-<area shape="rect" id="node4" href="$modules_2perception_2obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="179,110,332,151"/>
-<area shape="rect" id="node6" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="189,201,323,242"/>
-<area shape="rect" id="node8" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="507,201,660,242"/>
+<area shape="rect" id="node4" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="381,110,535,151"/>
+<area shape="rect" id="node6" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="445,201,599,242"/>
 </map>

@@ -1,0 +1,12 @@
+<map id="modules/localization/msf/common/util/compression.h" name="modules/localization/msf/common/util/compression.h">
+<area shape="rect" id="node2" href="$base__map__node_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map_node.h" alt="" coords="502,96,676,152"/>
+<area shape="rect" id="node3" href="$base__map_8h.html" title="modules/localization\l/msf/local_map/base_map\l/base_map.h" alt="" coords="182,200,356,256"/>
+<area shape="rect" id="node6" href="$lossless__map__matrix_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_matrix.h" alt="" coords="493,200,685,256"/>
+<area shape="rect" id="node7" href="$lossless__map__node_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_node.h" alt="" coords="371,304,555,360"/>
+<area shape="rect" id="node9" href="$lossy__map__matrix__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_matrix_2d.h" alt="" coords="761,200,956,256"/>
+<area shape="rect" id="node10" href="$lossy__map__node__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_node_2d.h" alt="" coords="633,304,820,360"/>
+<area shape="rect" id="node4" href="$lossless__map_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map.h" alt="" coords="5,304,168,360"/>
+<area shape="rect" id="node5" href="$lossy__map__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_2d.h" alt="" coords="193,304,345,360"/>
+<area shape="rect" id="node8" href="$lossless__map__pool_8h.html" title="modules/localization\l/msf/local_map/lossless\l_map/lossless_map_pool.h" alt="" coords="451,408,631,464"/>
+<area shape="rect" id="node11" href="$lossy__map__pool__2d_8h.html" title="modules/localization\l/msf/local_map/lossy\l_map/lossy_map_pool_2d.h" alt="" coords="684,408,868,464"/>
+</map>

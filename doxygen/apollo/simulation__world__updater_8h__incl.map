@@ -1,20 +1,20 @@
 <map id="modules/dreamview/backend/simulation_world/simulation_world_updater.h" name="modules/dreamview/backend/simulation_world/simulation_world_updater.h">
-<area shape="rect" id="node5" href="$log_8h.html" title="modules/common/log.h" alt="" coords="4301,584,4459,611"/>
-<area shape="rect" id="node8" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="91,577,237,618"/>
-<area shape="rect" id="node12" href="$websocket_8h.html" title="modules/dreamview/backend\l/handlers/websocket.h" alt="" coords="958,395,1148,437"/>
-<area shape="rect" id="node20" href="$map__service_8h.html" title="modules/dreamview/backend\l/map/map_service.h" alt="" coords="587,214,777,255"/>
-<area shape="rect" id="node35" href="$sim__control_8h.html" title="modules/dreamview/backend\l/sim_control/sim_control.h" alt="" coords="881,117,1071,158"/>
-<area shape="rect" id="node46" href="$simulation__world__service_8h.html" title="modules/dreamview/backend\l/simulation_world/simulation\l_world_service.h" alt="" coords="3401,109,3591,165"/>
-<area shape="rect" id="node21" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1717,305,1875,346"/>
-<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="2173,584,2371,611"/>
-<area shape="rect" id="node32" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="3101,486,3259,527"/>
-<area shape="rect" id="node34" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="2016,395,2173,437"/>
-<area shape="rect" id="node30" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="2705,675,2881,701"/>
-<area shape="rect" id="node37" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="3019,305,3197,346"/>
-<area shape="rect" id="node45" href="$dreamview__gflags_8h.html" title="modules/dreamview/backend\l/common/dreamview_gflags.h" alt="" coords="905,214,1100,255"/>
-<area shape="rect" id="node39" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="2696,486,2875,527"/>
-<area shape="rect" id="node40" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2765,395,2944,437"/>
-<area shape="rect" id="node43" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="2398,395,2588,437"/>
-<area shape="rect" id="node48" href="$common_2monitor_2monitor_8h.html" title="modules/common/monitor\l/monitor.h" alt="" coords="3841,395,4012,437"/>
-<area shape="rect" id="node49" href="$monitor__buffer_8h.html" title="The class of MonitorBuffer. " alt="" coords="3891,486,4063,527"/>
+<area shape="rect" id="node5" href="$log_8h.html" title="modules/common/log.h" alt="" coords="3889,584,4046,611"/>
+<area shape="rect" id="node8" href="$string__util_8h.html" title="Some string util functions. " alt="" coords="1083,577,1230,618"/>
+<area shape="rect" id="node12" href="$websocket_8h.html" title="modules/dreamview/backend\l/handlers/websocket.h" alt="" coords="484,395,674,437"/>
+<area shape="rect" id="node20" href="$map__service_8h.html" title="modules/dreamview/backend\l/map/map_service.h" alt="" coords="1165,214,1355,255"/>
+<area shape="rect" id="node35" href="$sim__control_8h.html" title="modules/dreamview/backend\l/sim_control/sim_control.h" alt="" coords="1747,117,1937,158"/>
+<area shape="rect" id="node46" href="$simulation__world__service_8h.html" title="modules/dreamview/backend\l/simulation_world/simulation\l_world_service.h" alt="" coords="3005,109,3195,165"/>
+<area shape="rect" id="node21" href="$pnc__map_8h.html" title="modules/map/pnc_map\l/pnc_map.h" alt="" coords="1490,305,1647,346"/>
+<area shape="rect" id="node29" href="$hdmap_8h.html" title="modules/map/hdmap/hdmap.h" alt="" coords="1782,584,1979,611"/>
+<area shape="rect" id="node32" href="$path_8h.html" title="modules/map/pnc_map\l/path.h" alt="" coords="2425,486,2582,527"/>
+<area shape="rect" id="node34" href="$route__segments_8h.html" title="modules/map/pnc_map\l/route_segments.h" alt="" coords="1627,395,1785,437"/>
+<area shape="rect" id="node30" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1677,675,1853,701"/>
+<area shape="rect" id="node37" href="$adapter__manager_8h.html" title="modules/common/adapters\l/adapter_manager.h" alt="" coords="2341,305,2519,346"/>
+<area shape="rect" id="node45" href="$dreamview__gflags_8h.html" title="modules/dreamview/backend\l/common/dreamview_gflags.h" alt="" coords="1380,214,1575,255"/>
+<area shape="rect" id="node39" href="$adapter_8h.html" title="modules/common/adapters\l/adapter.h" alt="" coords="2171,486,2350,527"/>
+<area shape="rect" id="node40" href="$message__adapters_8h.html" title="modules/common/adapters\l/message_adapters.h" alt="" coords="2251,395,2430,437"/>
+<area shape="rect" id="node43" href="$transform__listener_8h.html" title="modules/common/transform\l_listener/transform_listener.h" alt="" coords="887,395,1077,437"/>
+<area shape="rect" id="node48" href="$monitor__log__buffer_8h.html" title="The class of MonitorLogBuffer. " alt="" coords="3265,395,3437,437"/>
+<area shape="rect" id="node49" href="$monitor__logger_8h.html" title="The class of MonitorLogger. " alt="" coords="3468,486,3639,527"/>
 </map>

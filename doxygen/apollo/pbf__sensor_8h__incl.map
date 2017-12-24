@@ -2,10 +2,9 @@
 <area shape="rect" id="node5" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1368,124,1525,151"/>
 <area shape="rect" id="node8" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1017,416,1193,443"/>
 <area shape="rect" id="node11" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="621,214,779,255"/>
-<area shape="rect" id="node29" href="$pbf__sensor__object_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_sensor_object.h" alt="" coords="541,109,728,165"/>
+<area shape="rect" id="node27" href="$pbf__sensor__object_8h.html" title="modules/perception\l/obstacle/fusion/probabilistic\l_fusion/pbf_sensor_object.h" alt="" coords="541,109,728,165"/>
 <area shape="rect" id="node15" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="847,311,981,353"/>
-<area shape="rect" id="node17" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="732,499,885,541"/>
+<area shape="rect" id="node17" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="573,499,727,541"/>
 <area shape="rect" id="node24" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="340,304,487,360"/>
-<area shape="rect" id="node25" href="$modules_2perception_2obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="383,409,536,450"/>
-<area shape="rect" id="node26" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="343,499,477,541"/>
+<area shape="rect" id="node25" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="415,409,568,450"/>
 </map>

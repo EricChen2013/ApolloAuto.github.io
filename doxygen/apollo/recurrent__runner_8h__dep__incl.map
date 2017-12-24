@@ -1,9 +1,9 @@
 <map id="modules/monitor/common/recurrent_runner.h" name="modules/monitor/common/recurrent_runner.h">
-<area shape="rect" id="node2" href="$monitor__interface_8h.html" title="modules/monitor/common\l/monitor_interface.h" alt="" coords="402,97,573,138"/>
-<area shape="rect" id="node8" href="$monitor_2monitor_8h.html" title="modules/monitor/monitor.h" alt="" coords="599,104,775,131"/>
-<area shape="rect" id="node3" href="$can__monitor_8h.html" title="modules/monitor/hardware\l/can/can_monitor.h" alt="" coords="5,187,179,229"/>
-<area shape="rect" id="node4" href="$gps__monitor_8h.html" title="modules/monitor/hardware\l/gps/gps_monitor.h" alt="" coords="203,187,377,229"/>
-<area shape="rect" id="node5" href="$process__monitor_8h.html" title="modules/monitor/software\l/process_monitor.h" alt="" coords="402,187,573,229"/>
-<area shape="rect" id="node6" href="$summary__monitor_8h.html" title="modules/monitor/software\l/summary_monitor.h" alt="" coords="598,187,769,229"/>
-<area shape="rect" id="node7" href="$topic__monitor_8h.html" title="modules/monitor/software\l/topic_monitor.h" alt="" coords="794,187,965,229"/>
+<area shape="rect" id="node2" href="$can__monitor_8h.html" title="modules/monitor/hardware\l/can/can_monitor.h" alt="" coords="5,103,179,145"/>
+<area shape="rect" id="node3" href="$gps__monitor_8h.html" title="modules/monitor/hardware\l/gps/gps_monitor.h" alt="" coords="203,103,377,145"/>
+<area shape="rect" id="node4" href="$monitor_8h.html" title="modules/monitor/monitor.h" alt="" coords="403,111,579,137"/>
+<area shape="rect" id="node5" href="$vehicle__state__reporter_8h.html" title="modules/monitor/online\l_report/vehicle_state\l_reporter.h" alt="" coords="603,96,759,152"/>
+<area shape="rect" id="node6" href="$process__monitor_8h.html" title="modules/monitor/software\l/process_monitor.h" alt="" coords="783,103,955,145"/>
+<area shape="rect" id="node7" href="$summary__monitor_8h.html" title="modules/monitor/software\l/summary_monitor.h" alt="" coords="979,103,1151,145"/>
+<area shape="rect" id="node8" href="$topic__monitor_8h.html" title="modules/monitor/software\l/topic_monitor.h" alt="" coords="1175,103,1347,145"/>
 </map>

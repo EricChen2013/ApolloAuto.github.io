@@ -1,5 +1,4 @@
 <map id="modules/perception/obstacle/base/hdmap_struct.h" name="modules/perception/obstacle/base/hdmap_struct.h">
-<area shape="rect" id="node4" href="$modules_2perception_2obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="181,110,335,151"/>
-<area shape="rect" id="node6" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="191,201,325,242"/>
-<area shape="rect" id="node8" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="509,201,663,242"/>
+<area shape="rect" id="node4" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="381,110,535,151"/>
+<area shape="rect" id="node6" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="445,201,599,242"/>
 </map>

@@ -1,0 +1,15 @@
+<map id="_BM_MSG" name="_BM_MSG">
+<area shape="rect" id="node2" href="$struct__BM__MSG__CAN__ERROR__PASSIVE.html" title="{_BM_MSG_CAN_ERROR_PASSIVE\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ regStatus\l+ reserved3\l|}" alt="" coords="5,192,248,357"/>
+<area shape="rect" id="node3" href="$unionOSIF__TS.html" title="{OSIF_TS\n|+ tick\l+ h\l|}" alt="" coords="1153,6,1229,98"/>
+<area shape="rect" id="node4" href="$struct__BM__MSG__CAN__ERROR__WARN.html" title="{_BM_MSG_CAN_ERROR_WARN\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ regStatus\l+ reserved3\l|}" alt="" coords="272,192,499,357"/>
+<area shape="rect" id="node6" href="$struct__BM__MSG__CAN__OVERRUN.html" title="{_BM_MSG_CAN_OVERRUN\n|+ msgId\l+ txFifoLevel\l+ lostCnt\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ reserved3\l|}" alt="" coords="523,192,720,357"/>
+<area shape="rect" id="node7" href="$struct__BM__MSG__CAN__BUS__ERROR.html" title="{_BM_MSG_CAN_BUS_ERROR\n|+ msgId\l+ txFifoLevel\l+ ecc\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ regStatus\l+ regBtr\l+ reserved3\l|}" alt="" coords="744,177,957,372"/>
+<area shape="rect" id="node8" href="$struct__BM__MSG__CAN__STATISTIC.html" title="{_BM_MSG_CAN_STATISTIC\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ regStatus\l+ idleCnt\l+ reserved3\l|}" alt="" coords="982,185,1180,365"/>
+<area shape="rect" id="node10" href="$struct__BM__MSG__CAN__TIMESLICE.html" title="{_BM_MSG_CAN_TIMESLICE\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ reserved3\l|}" alt="" coords="1204,199,1403,350"/>
+<area shape="rect" id="node11" href="$struct__BM__MSG__CAN__ANY.html" title="{_BM_MSG_CAN_ANY\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ reserved3\l|}" alt="" coords="1428,199,1585,350"/>
+<area shape="rect" id="node12" href="$struct__BM__MSG__OV__HW__TIMER.html" title="{_BM_MSG_OV_HW_TIMER\n|+ msgId\l+ reserved1\l+ reserved2\l+ reserved3\l|}" alt="" coords="1610,214,1800,335"/>
+<area shape="rect" id="node13" href="$struct__BM__MSG__CAN__TX__ABORT.html" title="{_BM_MSG_CAN_TX_ABORT\n|+ msgId\l+ txFifoLevel\l+ abortMask\l+ txTsFifoLevel\l+ reserved2\l+ abortMaskTxTs\l+ reserved3\l|}" alt="" coords="1825,192,2023,357"/>
+<area shape="rect" id="node14" href="$struct__BM__MSG__CAN__RXTX__DONE.html" title="{_BM_MSG_CAN_RXTX_DONE\n|+ msgId\l+ txFifoLevel\l+ reserved1\l+ txTsFifoLevel\l+ reserved2\l+ id\l+ ui\l+ len\l+ reserved0\l+ bits\land 8 more...\l|}" alt="" coords="2047,163,2256,387"/>
+<area shape="rect" id="node5" href="$struct__BM__MSG__CAN__FD__DATA.html" title="{_BM_MSG_CAN_FD_DATA\n|+ msgId\l+ reserved1\l+ ui8\l+ ui32\l+ d\l|}" alt="" coords="2282,207,2472,343"/>
+<area shape="rect" id="node9" href="$struct__BM__MSG__OV__HOTPLUG.html" title="{_BM_MSG_OV_HOTPLUG\n|+ msgId\l+ reserved1\l+ reserved2\l|}" alt="" coords="2497,221,2679,328"/>
+</map>

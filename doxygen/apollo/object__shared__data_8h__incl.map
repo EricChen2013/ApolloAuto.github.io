@@ -1,14 +1,13 @@
 <map id="modules/perception/obstacle/onboard/object_shared_data.h" name="modules/perception/obstacle/onboard/object_shared_data.h">
-<area shape="rect" id="node3" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="939,117,1096,158"/>
-<area shape="rect" id="node25" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="1553,109,1724,165"/>
-<area shape="rect" id="node8" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="997,318,1131,359"/>
-<area shape="rect" id="node13" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="484,409,637,450"/>
-<area shape="rect" id="node20" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="649,213,796,269"/>
-<area shape="rect" id="node21" href="$modules_2perception_2obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="724,318,877,359"/>
-<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1897,416,2073,443"/>
-<area shape="rect" id="node22" href="$define_8h.html" title="modules/perception\l/common/define.h" alt="" coords="813,409,947,450"/>
-<area shape="rect" id="node31" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="2089,221,2223,262"/>
-<area shape="rect" id="node33" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="1906,221,2064,262"/>
-<area shape="rect" id="node34" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1564,416,1721,443"/>
-<area shape="rect" id="node37" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="1739,318,1879,359"/>
+<area shape="rect" id="node3" href="$object_8h.html" title="modules/perception\l/obstacle/base/object.h" alt="" coords="792,117,949,158"/>
+<area shape="rect" id="node23" href="$common__shared__data_8h.html" title="modules/perception\l/onboard/common_shared\l_data.h" alt="" coords="1717,109,1888,165"/>
+<area shape="rect" id="node8" href="$time__util_8h.html" title="modules/perception\l/lib/base/time_util.h" alt="" coords="682,318,816,359"/>
+<area shape="rect" id="node13" href="$pcl__types_8h.html" title="modules/perception\l/lib/pcl_util/pcl_types.h" alt="" coords="445,409,599,450"/>
+<area shape="rect" id="node20" href="$object__supplement_8h.html" title="modules/perception\l/obstacle/base/object\l_supplement.h" alt="" coords="636,213,783,269"/>
+<area shape="rect" id="node21" href="$obstacle_2base_2types_8h.html" title="modules/perception\l/obstacle/base/types.h" alt="" coords="503,318,656,359"/>
+<area shape="rect" id="node11" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1872,416,2048,443"/>
+<area shape="rect" id="node29" href="$mutex_8h.html" title="modules/perception\l/lib/base/mutex.h" alt="" coords="2070,221,2204,262"/>
+<area shape="rect" id="node31" href="$shared__data_8h.html" title="modules/perception\l/onboard/shared_data.h" alt="" coords="2229,221,2387,262"/>
+<area shape="rect" id="node32" href="$log_8h.html" title="modules/common/log.h" alt="" coords="2224,416,2381,443"/>
+<area shape="rect" id="node35" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="2109,318,2248,359"/>
 </map>

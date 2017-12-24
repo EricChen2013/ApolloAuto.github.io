@@ -1,9 +1,9 @@
 <map id="modules/perception/traffic_light/projection/projection.h" name="modules/perception/traffic_light/projection/projection.h">
-<area shape="rect" id="node5" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="444,109,588,165"/>
-<area shape="rect" id="node8" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="894,221,1033,262"/>
-<area shape="rect" id="node17" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="449,213,583,269"/>
-<area shape="rect" id="node25" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="209,213,343,269"/>
-<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1204,332,1361,359"/>
-<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1385,332,1561,359"/>
-<area shape="rect" id="node22" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="397,317,531,373"/>
+<area shape="rect" id="node5" href="$base__projection_8h.html" title="modules/perception\l/traffic_light/interface\l/base_projection.h" alt="" coords="348,109,492,165"/>
+<area shape="rect" id="node8" href="$registerer_8h.html" title="modules/perception\l/lib/base/registerer.h" alt="" coords="851,221,991,262"/>
+<area shape="rect" id="node17" href="$light_8h.html" title="modules/perception\l/traffic_light/base\l/light.h" alt="" coords="406,213,540,269"/>
+<area shape="rect" id="node25" href="$pose_8h.html" title="modules/perception\l/traffic_light/base\l/pose.h" alt="" coords="195,213,329,269"/>
+<area shape="rect" id="node11" href="$log_8h.html" title="modules/common/log.h" alt="" coords="1161,332,1319,359"/>
+<area shape="rect" id="node14" href="$macro_8h.html" title="modules/common/macro.h" alt="" coords="1343,332,1519,359"/>
+<area shape="rect" id="node22" href="$perception_2traffic__light_2base_2image_8h.html" title="modules/perception\l/traffic_light/base\l/image.h" alt="" coords="354,317,488,373"/>
 </map>

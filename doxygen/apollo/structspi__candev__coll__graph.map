@@ -1,0 +1,3 @@
+<map id="spi_candev" name="spi_candev">
+<area shape="rect" id="node2" href="$structdirectspidev.html" title="{directspidev\n|+ directspi_dev_version\l+ master_id\l+ master_type\l+ master_dev\l+ master_base\l+ master_phys\l+ init\l+ sync_xfer\l+ reserved\l|}" alt="" coords="4,5,163,200"/>
+</map>

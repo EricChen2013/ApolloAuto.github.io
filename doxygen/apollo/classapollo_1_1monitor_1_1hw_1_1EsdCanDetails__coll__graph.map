@@ -1,3 +1,8 @@
 <map id="apollo::monitor::hw::EsdCanDetails" name="apollo::monitor::hw::EsdCanDetails">
-<area shape="rect" id="node2" href="$classapollo_1_1monitor_1_1HwCheckResultDetails.html" title="{apollo::monitor::HwCheck\lResultDetails\n||+ ~HwCheckResultDetails()\l+ print_summary()\l+ print_test_result()\l}" alt="" coords="5,6,192,127"/>
+<area shape="rect" id="node2" href="$classapollo_1_1monitor_1_1HwCheckResultDetails.html" title="{apollo::monitor::HwCheck\lResultDetails\n||+ ~HwCheckResultDetails()\l+ print_summary()\l+ print_test_result()\l}" alt="" coords="5,257,192,378"/>
+<area shape="rect" id="node3" href="$structNTCAN__CTRL__STATE.html" title="{NTCAN_CTRL_STATE\n|+ rcv_err_counter\l+ xmit_err_counter\l+ status\l+ type\l|}" alt="" coords="217,257,377,378"/>
+<area shape="rect" id="node4" href="$structNTCAN__BITRATE.html" title="{NTCAN_BITRATE\n|+ baud\l+ valid\l+ rate\l+ clock\l+ ctrl_type\l+ tq_pre_sp\l+ tq_post_sp\l+ sjw\l+ error\l+ flags\l+ reserved\l|}" alt="" coords="403,205,536,429"/>
+<area shape="rect" id="node5" href="$structCAN__IF__STATUS.html" title="{CAN_IF_STATUS\n|+ hardware\l+ firmware\l+ driver\l+ dll\l+ boardstatus\l+ boardid\l+ features\l|}" alt="" coords="560,235,689,400"/>
+<area shape="rect" id="node6" href="$structNTCAN__BUS__STATISTIC.html" title="{NTCAN_BUS_STATISTIC\n|+ timestamp\l+ ctrl_ovr\l+ fifo_ovr\l+ err_frames\l+ rcv_byte_count\l+ xmit_byte_count\l+ aborted_frames\l+ reserved\l+ bit_count\l|}" alt="" coords="715,220,895,415"/>
+<area shape="rect" id="node7" href="$structNTCAN__FRAME__COUNT.html" title="{NTCAN_FRAME_COUNT\n|+ std_data\l+ std_rtr\l+ ext_data\l+ ext_rtr\l|}" alt="" coords="716,6,895,127"/>
 </map>

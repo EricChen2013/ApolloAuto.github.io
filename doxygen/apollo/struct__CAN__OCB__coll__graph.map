@@ -1,0 +1,18 @@
+<map id="_CAN_OCB" name="_CAN_OCB">
+<area shape="rect" id="node2" href="$struct__CAN__OCB_1_1__filter20b.html" title="{_CAN_OCB::_filter20b\n|+ acr\l+ amr\l|}" alt="" coords="399,818,552,910"/>
+<area shape="rect" id="node3" href="$struct__CM.html" title="{_CM\n|+ id\l+ len\l+ msg_lost\l+ reserved\l+ ecc\l+ data\l|}" alt="" coords="245,502,331,653"/>
+<area shape="rect" id="node14" href="$struct__CAN__OCB_1_1__tx.html" title="{_CAN_OCB::_tx\n|+ tout\l+ result\l+ state\l+ cm_count\l+ cm_size\l+ user_buf\l|}" alt="" coords="157,789,277,939"/>
+<area shape="rect" id="node4" href="$unionHOST__HND.html" title="{HOST_HND\n|+ ul64\l+ ul32\l+ ptr\l|}" alt="" coords="239,257,335,364"/>
+<area shape="rect" id="node5" href="$unionOSIF__TS.html" title="{OSIF_TS\n|+ tick\l+ h\l|}" alt="" coords="359,265,435,357"/>
+<area shape="rect" id="node6" href="$struct__CAN__NODE.html" title="{_CAN_NODE\n|+ nuc_node\l+ cif_node\l+ features\l+ mode\l+ status\l+ base\l+ net_no\l+ node_no\l+ lock\l+ lock_irq\land 6 more...\l|}" alt="" coords="580,752,684,976"/>
+<area shape="rect" id="node10" href="$struct__CAN__CARD.html" title="{_CAN_CARD\n|+ base\l+ range\l+ irq\l+ num_nodes\l+ card_no\l+ features\l+ serial\l+ board_status\l+ doNotTouch\l+ reserved\l|}" alt="" coords="713,1077,823,1286"/>
+<area shape="rect" id="node7" href="$struct__CAN__NODE__STAT.html" title="{_CAN_NODE_STAT\n|+ msg_count_std\l+ msg_count_ext\l|}" alt="" coords="559,531,704,623"/>
+<area shape="rect" id="node8" href="$struct__CAN__BUS__STAT.html" title="{_CAN_BUS_STAT\n|+ timestamp\l+ ctrl_ovr_count\l+ fifo_ovr_count\l+ err_frames_count\l+ rcv_byte_count\l+ xmit_byte_count\l+ abort_frames_count\l+ rcv_count_fd\l+ xmit_count_fd\l+ bit_count\l|}" alt="" coords="557,206,705,415"/>
+<area shape="rect" id="node9" href="$struct__CAN__FRAME__COUNT.html" title="{_CAN_FRAME_COUNT\n|+ std_data\l+ std_rtr\l+ ext_data\l+ ext_rtr\l|}" alt="" coords="549,6,715,127"/>
+<area shape="rect" id="node11" href="$union__CARD__IDENT.html" title="{_CARD_IDENT\n|+ spaces\l+ name\l+ vendor\l+ device\l+ subVendor\l+ subDevice\l+ class\l+ classMask\l+ misc\l+ ids\land 7 more...\l|}" alt="" coords="709,752,824,976"/>
+<area shape="rect" id="node12" href="$struct__CARD__IRQ.html" title="{_CARD_IRQ\n|+ handler\l+ context\l|}" alt="" coords="777,531,876,623"/>
+<area shape="rect" id="node13" href="$struct__VERSION96.html" title="{_VERSION96\n|+ level\l+ revision\l+ build\l|}" alt="" coords="931,811,1035,917"/>
+<area shape="rect" id="node15" href="$struct__CAN__OCB_1_1__rx.html" title="{_CAN_OCB::_rx\n|+ tout\l+ result\l+ state\l+ cm_count\l+ cm_size\l+ user_buf\l|}" alt="" coords="13,789,133,939"/>
+<area shape="rect" id="node16" href="$structCAN__MSG__T.html" title="{CAN_MSG_T\n|+ id\l+ len\l+ msg_lost\l+ reserved\l+ c\l+ s\l+ l\l+ ll\l+ buf\l|}" alt="" coords="22,480,124,675"/>
+<area shape="rect" id="node17" href="$unionCAN__TIMESTAMP.html" title="{CAN_TIMESTAMP\n|+ tick\l|}" alt="" coords="5,272,140,349"/>
+</map>

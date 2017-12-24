@@ -1,0 +1,4 @@
+<map id="_CAN_NODE_STAT" name="_CAN_NODE_STAT">
+<area shape="rect" id="node2" href="$struct__CAN__BUS__STAT.html" title="{_CAN_BUS_STAT\n|+ timestamp\l+ ctrl_ovr_count\l+ fifo_ovr_count\l+ err_frames_count\l+ rcv_byte_count\l+ xmit_byte_count\l+ abort_frames_count\l+ rcv_count_fd\l+ xmit_count_fd\l+ bit_count\l|}" alt="" coords="13,206,161,415"/>
+<area shape="rect" id="node3" href="$struct__CAN__FRAME__COUNT.html" title="{_CAN_FRAME_COUNT\n|+ std_data\l+ std_rtr\l+ ext_data\l+ ext_rtr\l|}" alt="" coords="5,6,171,127"/>
+</map>
